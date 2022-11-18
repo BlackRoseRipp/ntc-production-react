@@ -1,0 +1,11169 @@
+import React from "react";
+
+const EtgAndEtsQuantitationByUPLC = () => {
+  return (
+    <>
+      <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>Customer Communication Template 2018</title>
+      <meta name="author" content="Patrice Y. Ohouo" />
+      <meta
+        name="description"
+        content="Ethanol consumption has been linked to significant socio-economic burdens worldwide. As a result, there is a growing need for the detection and identification of ethanol use. Over the years, ethylglucuronide (EtG) and ethylsulfate (EtS) have emerged as reliable biomarkers of recent ethanol use. EtG and EtS are minor water soluble phase II metabolites of ethanol detectable in urine up to 80 hours following ethanol consumption. Definitive confirmation of EtG and EtS as a biomarker of ethanol use is performed for a wide range of court, clinical and employment testing purposes. The authors report the development of a rapid and simple dilute and shoot method for definitive identification and quantitation of EtG and EtS in human urine using UPLC-MS/MS.  "
+      />
+      <style
+        type="text/css"
+        dangerouslySetInnerHTML={{
+          __html:
+            ' * {margin:0; padding:0; text-indent:0; }\n h1 { color: #008ACE; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 16pt; }\n p { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; margin:0pt; }\n .s1 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5pt; vertical-align: 3pt; }\n .s2 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5pt; vertical-align: 3pt; }\n .s3 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }\n h2 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }\n .s4 { color: #008ACE; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10.5pt; }\n .s5 { color: #231F20; font-family:Symbol, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }\n h3 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10.5pt; }\n .s6 { color: #008ACE; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: underline; font-size: 9pt; }\n .s7 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; vertical-align: -1pt; }\n .s8 { color: #FFF; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }\n .s9 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }\n .s10 { color: #231F20; font-family:Calibri, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 8pt; }\n .s12 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }\n .s13 { color: #FFF; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; }\n .s14 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }\n .s15 { color: #FFF; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; }\n .s16 { color: #231F20; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; }\n h4 { color: #FFF; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }\n .s17 { color: #231F20; font-family:Arial, sans-serif; font-style: italic; font-weight: bold; text-decoration: none; font-size: 8pt; }\n .s18 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }\n .s19 { color: #231F20; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 5pt; }\n .s20 { color: #020303; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 5pt; }\n .s21 { color: #231F20; font-family:Calibri, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 8pt; }\n .s22 { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; }\n .a, a { color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }\n li {display: block; }\n #l1 {padding-left: 0pt;counter-reset: c1 1; }\n #l1> li>*:first-child:before {counter-increment: c1; content: counter(c1, decimal)". "; color: #231F20; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }\n #l1> li:first-child>*:first-child:before {counter-increment: c1 0;  }\n table, tbody {vertical-align: top; overflow: visible; }\n',
+        }}
+      />
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <h1
+        style={{
+          paddingTop: "6pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        UPLC-MS/MS Method for Quantitation of EtG and EtS in Human Urine
+      </h1>
+      <p
+        style={{
+          paddingTop: "14pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Patrice Y. Ohouo,<span className="s1">1 </span>Nicholas Dixon,
+        <span className="s1">2 </span>Amy Lieu,<span className="s1">3 </span>
+        Zahra Zavery,<span className="s1">3 </span>Thomas G. Rosano
+        <span className="s1">1,4</span>
+      </p>
+      <p
+        className="s2"
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        1
+        <span className="s3">
+          Clinical and Forensic Toxicology Laboratory, National Toxicology
+          Center, Albany, NY
+        </span>
+      </p>
+      <p
+        className="s2"
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        2
+        <span className="s3">
+          Department of Chemistry, University at Albany, Albany, NY
+        </span>
+      </p>
+      <p
+        className="s2"
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        3
+        <span className="s3">
+          Department of Basic and Clinical Sciences, Albany College of Pharmacy
+          and Health Sciences, Albany, NY
+        </span>
+      </p>
+      <p
+        className="s2"
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        4
+        <span className="s3">
+          Department of Pathology and Laboratory Medicine, Albany Medical
+          Center, Albany, NY
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "1pt",
+          textAlign: "left",
+        }}
+      />
+      <h2 style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+        APPLICATION BENEFITS
+      </h2>
+      <p
+        style={{
+          paddingTop: "1pt",
+          textIndent: "0pt",
+          lineHeight: "14pt",
+          textAlign: "left",
+        }}
+      >
+        Simple dilute and shoot sample preparation method.
+      </p>
+      <h2 style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+        WATERS SOLUTIONS
+      </h2>
+      <p
+        style={{
+          paddingTop: "4pt",
+          textIndent: "0pt",
+          lineHeight: "173%",
+          textAlign: "left",
+        }}
+      >
+        <a
+          href="http://www.waters.com/waters/en_US/Xevo-TQD-Triple-Quadrupole-Mass-Spectrometry/nav.htm?cid=134608730"
+          className="a"
+          target="_blank"
+        >
+          ACQUITY UPLC-I-Class (FTN) System{" "}
+        </a>
+        <a
+          href="http://www.waters.com/waters/en_US/Xevo-TQD-Triple-Quadrupole-Mass-Spectrometry/nav.htm?cid=134608730"
+          className="s6"
+          target="_blank"
+        >
+          Xevo™ TQD Mass Spectrometer
+        </a>
+      </p>
+      <p style={{ textIndent: "0pt", lineHeight: "11pt", textAlign: "left" }}>
+        <a
+          href="http://www.waters.com/waters/en_US/CSH-%28Charged-Surface-Hybrid%29-Technology/nav.htm?cid=134618101"
+          className="s6"
+        >
+          ACQUITY UPLC CSH™ Phenyl-Hexyl Column
+        </a>
+      </p>
+      <p
+        style={{
+          paddingTop: "4pt",
+          textIndent: "0pt",
+          lineHeight: "14pt",
+          textAlign: "left",
+        }}
+      >
+        <a
+          href="http://www.waters.com/waters/partDetail.htm?partNumber=186002482"
+          className="s6"
+          target="_blank"
+        >
+          Waters™ 96-well Sample Collection Plate
+        </a>
+        <a
+          href="http://www.waters.com/waters/partDetail.htm?partNumber=186002482"
+          style={{
+            color: "#008ACE",
+            fontFamily: "Calibri, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "9pt",
+          }}
+          target="_blank"
+        >
+          ,{" "}
+        </a>
+        <a
+          href="http://www.waters.com/waters/partDetail.htm?partNumber=186002482"
+          className="s6"
+          target="_blank"
+        >
+          2 mL Square well
+        </a>
+      </p>
+      <h2 style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+        KEYWORDS
+      </h2>
+      <p
+        style={{
+          paddingTop: "4pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        UPLC-MS/MS, EtG, EtS, ethylglucuronide, ethylsulfate, dilute and shoot,
+      </p>
+      <p style={{ textIndent: "0pt", lineHeight: "11pt", textAlign: "left" }}>
+        ACQUITY UPLC CSH Phenyl-Hexyl Column
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <h2
+        style={{
+          paddingTop: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        OBJECTIVE
+      </h2>
+      <p
+        style={{
+          paddingTop: "4pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        Development of a simple method, for the quantitation of ethylglucuronide
+        (EtG) and ethylsulfate (EtS), for forensic toxicology.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "1pt",
+          textAlign: "left",
+        }}
+      />
+      <h2
+        style={{
+          paddingTop: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        INTRODUCTION
+      </h2>
+      <p
+        style={{
+          paddingTop: "4pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        Ethanol consumption has been linked to significant socio-economic
+        burdens worldwide.<span className="s1">1 </span>As a result, there is a
+        growing need for the detection and identification of ethanol use. Over
+        the years, ethylglucuronide (EtG)
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        and ethylsulfate (EtS) have emerged as reliable biomarkers of recent
+        ethanol use.<span className="s1">2,3 </span>EtG and EtS are minor water
+        soluble phase II metabolites of ethanol and are detectable in urine up
+        to 80 hours following ethanol consumption.
+        <span className="s1">2,4 </span>Definitive confirmation of EtG and EtS
+        as a biomarker of ethanol use is performed for a wide range of testing
+        purposes. The authors report the development of a rapid and simple
+        dilute and shoot method for definitive identification and quantitation
+        of EtG and EtS in human urine
+      </p>
+      <p style={{textIndent: "0pt", textAlign: "left" }}>
+        using UPLC-MS/MS.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "1pt",
+          textAlign: "left",
+        }}
+      />
+      <h2
+        style={{
+          paddingTop: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        MATERIALS
+      </h2>
+      <p
+        className="s4"
+        style={{
+          paddingTop: "10pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        URINE SAMPLES
+      </p>
+      <p
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        Human urine samples for the preparation of calibrators and quality
+        controls (QC) were obtained from volunteer donors with no recent (at
+        least a week) use of ethanol. Prior to use, samples were confirmed
+        negative for EtG by immunoassay analysis. Authentic samples were
+        collected as part of routine casework. All samples were stored at
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        -20˚C without addition of preservatives.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#FFF",
+            fontFamily: '"Trebuchet MS", sans-serif',
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "17pt",
+          }}
+        >
+          [ CUSTOMER COMMUNICATION ]
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span />
+      </p>
+      <table border={0} cellSpacing={0} cellPadding={0}>
+        <tbody>
+          <tr>
+            <td>
+              <img
+                width={178}
+                height={8}
+                src="data:image/png;base64,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"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={16}
+                  height={16}
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABO0lEQVQ4jY2TSyuFURSGn3NOUspM5CjFUI7LPyASKRMjP0ImRibmRgyVTBUG/Aljl6mSgUsnSZRcch4Da2efM+B7a9W719d6vt1ea5VUMpWABWAGGAdqwCtwDRwBO0AdGAAWAVBTdKn7asNffahP2flRnVfnUiIV96i3kftUt9QxtS2+96lL6o36rq61Anbjz8/qdJZvjU71RH3LAZPZtTf/KE4xqL7kgI3wD2pHAQDqYQKUgZHowBXwRjGdJlMGRsPfAI2CgLMcUAn/UbAYoDsHnIfvjXMRpVtTBi7C9xcElPiZ0B/FVKU2LhfowJT61TpIewG5V2v/zMBlDFwToKrWI/eqrqujartaUYfUlSh8V1dbAWkfDmxepq8oSHpSZ82WqWTzOgPMA7PxUMPxsNfAMbAN3AFVYALgGwn/DQoboP5VAAAAAElFTkSuQmCC"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={24}
+                  height={21}
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAVCAYAAABc6S4mAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACT0lEQVQ4jY2VvWuUQRDGf8/daY6IjRCJBluRaJBUQdAiGEiaYKN/g4WFXVKLrbWCWAYsrKxUFMFGrSwUbEWIqIWJHviVj3ksshv29t6cGRjYnZ2deXbeeeaVbZKMAj+BLeAE8IV9im0kDawBWntd2I8ti6Td8zL4QAInr9qpyVYmrFH3JbBdZu/zyvZh6P+XvFXWrnbIT699hiEuE9qmA3RToK5tS0LSiO1uWv8t7DnAQeAkMAtcAD4AL4CXwPe+RBGxYXtXq/1v26dyGW23IuKy7a+2IyLCdjhJRPyJiDu2R2wTEXSAlfSclqTp9Jq3kjZth6QfqTQHJD0E5m0H8BR4ALy3fQZYlDQPXAUWgLNALyMjIkYTkE3b4xlBgf56Qr1me9q2ijMiQranIqKXXrMSEZQBBhIUOma7l87OV4lrXUhl24qI2VbVPc5fv2rNa8Bh4LPt18M6D3gG/ALakuY6ZbtlHjT09UXAknqSbgxrzSTfgEPA6U6Tc0aULnUkTQACJpM2BW0I4clOsSOhrMnVBrrpbAm418TsPeZRdMpgklSzNbXruqRjwAxwqynYXrOpVSLOjK1RSHqT1jNAO5/XJSpsI7aPQhp2hUPjRwbuA9vAceDcQH2qO5KWgY/AciZJH9EiouZBy/bzNBpWI+JoAxFzrEXb27EjS3sSreHymO21RKJ125dsHykCT9i+GRHbCcgT2xo6Khp03PajlCTrakpY2u7abttmt2uAtu3FnUby4zSmm/61sn1F0hwwZXtS0gbwCXhl+7akdznuP9NH4c/3F+rvAAAAAElFTkSuQmCC"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={21}
+                  height={16}
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAQCAYAAAD52jQlAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABlklEQVQ4ja2SO2hVURBF131REIKxECw0EGzEX2FhoU3QzqCWImphpSL2lpJCuxDQUuxt1JDCSi0sjPUDxaCFHxAhjfAaf3l72ZyLh0uiT3FgmGHPnHXnnLmoV4pvV1G3qXPqiyQD9aO6p9RIciTJgvpa/aJ+UB+qp9VGBX/ZtLq3QFRNEnVFnVB76q0kw6JHHZRoiffVTTX0VAEO1KvqwSRb1H1lymPqjySrSWbVzdXNbqirBXy9hr5V36v7q6vS5uqDMn0/Sa/SW59XF9UDNTTqibqxA10u0KWO3nrT5jX0aV1YAzpXoN+SnOn21l5D57vFDnRCXU4xdUm9qG79HfTcH6Co40luJ/lanfte3nJmLej0CFCSkGSHOqu+6ezknrrxX6G1drTsowVf+x9Q1DH1SeH0e4xuY8DhdWpDYKHkO0eFHgL6wCNg9zo9u0p8OSr0EzAFjAPPgPMlp8TLwAVA4O7fvOlJdVD9p1E/q8NqSXfUplHPli8+Blbq8VSapqmlSfUScLxpmilgA/AOeAXcBJ4D/AQMBGvIkpQF0AAAAABJRU5ErkJgggAA"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <p />
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        className="s4"
+        style={{
+          paddingTop: "6pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        REFERENCE STANDARDS
+      </p>
+      <p
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          lineHeight: "126%",
+          textAlign: "left",
+        }}
+      >
+        Drug reference material for EtG (Ethyl-<span className="s5"></span>-D
+        glucuronide, 1.0 mg/mL), and EtS (Ethylsulfate, 1.0 mg/mL) and
+        deuterated analogues, EtG-D5 (Ethyl-<span className="s5"></span>-D
+        glucuronide D5, 1.0 mg/mL), and EtS-D5 (Ethyl-D5 sulfate, 1.0 mg/mL)
+        were obtained from Cerilliant Corporation, TX, USA. Deuterated analogues
+        were used for the purpose of internal standardization. Stock solutions
+        containing a mixture of non-deuterated reference material (EtG: 0.1
+        mg/mL and EtS: 0.05 mg/mL) or a mixture of internal standard (EtG-D5:
+        0.1 mg/mL and EtS-D5: 0.05 mg/mL) were prepared in methanol and stored
+        at -20 °C. A daily working internal standard solution was prepared by a
+        400-fold dilution of the stock in distilled water.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <h2
+        style={{
+          paddingTop: "6pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        EXPERIMENTAL
+      </h2>
+      <h3
+        style={{
+          paddingTop: "10pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Sample preparation
+      </h3>
+      <p
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        Urine samples were initially clarified by centrifugation for three
+        minutes at 7200 rpm (~4227 x g). Following centrifugation, 50 µL
+        aliquots of urine were loaded into a 96-well plate (Waters 96-well
+        Sample Collection Plate, 2 mL square well). Aliquots were diluted by
+        adding 500 µL of the daily working internal standard solution. Following
+        dilution, samples were mixed on a vortex for one minute.
+      </p>
+      <h3
+        style={{
+          paddingTop: "4pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        LC conditions
+      </h3>
+      <p
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        LC system: ACQUITY UPLC I-Class
+      </p>
+      <p
+        style={{
+          paddingTop: "7pt",
+          paddingLeft: "126pt",
+          textIndent: "-90pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        Column: ACQUITY UPLC CSH Phenyl-Hexyl 2.1 × 150 mm, 1.7 µm
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <a
+          href="http://www.waters.com/waters/partDetail.htm?partNumber=186005408"
+          className="a"
+          target="_blank"
+        >
+          (P/N:{" "}
+        </a>
+        <span
+          style={{
+            color: "#008ACE",
+            fontFamily: "Calibri, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "underline",
+            fontSize: "9pt",
+          }}
+        >
+          186005408
+        </span>
+        )
+      </p>
+      <p
+        style={{
+          paddingTop: "7pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Column temp.: 50 °C
+      </p>
+      <p
+        style={{
+          paddingTop: "7pt",
+          textIndent: "0pt",
+          lineHeight: "164%",
+          textAlign: "left",
+        }}
+      >
+        Mobile phase A: Water containing 0.1% formic acid Mobile phase B:
+        Acetonitrile
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "11pt",
+          textAlign: "left",
+        }}
+      >
+        Wash solvent: Acetonitrile/isopropanol/dH<span className="s7">2</span>O
+        (1:1:1)
+      </p>
+      <p
+        style={{
+          paddingTop: "3pt",
+          paddingLeft: "126pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        (800 µL)
+      </p>
+      <p
+        style={{
+          paddingTop: "7pt",
+          textIndent: "0pt",
+          lineHeight: "164%",
+          textAlign: "left",
+        }}
+      >
+        Purge solvent: 2% methanol in dH<span className="s7">2</span>O (2400 µL)
+        Injection volume: 10 µL
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "11pt",
+          textAlign: "left",
+        }}
+      >
+        Gradient elution:
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <table
+        style={{ borderCollapse: "collapse"}}
+        cellSpacing={0}
+      >
+        <tbody>
+          <tr style={{ height: "27pt" }}>
+            <td
+              style={{
+                width: "108pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s8"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "14pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                Time Flow rate
+              </p>
+              <p
+                className="s8"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                (min) (mL/min)
+              </p>
+            </td>
+            <td
+              style={{
+                width: "36pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s8"
+                style={{
+                  paddingTop: "8pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                %A
+              </p>
+            </td>
+            <td
+              style={{
+                width: "35pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s8"
+                style={{
+                  paddingTop: "8pt",
+                  paddingLeft: "10pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                %B
+              </p>
+            </td>
+            <td
+              style={{
+                width: "45pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s8"
+                style={{
+                  paddingTop: "8pt",
+                  paddingLeft: "10pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                Slope
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "108pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "18pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                0.0 0.5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "36pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                98
+              </p>
+            </td>
+            <td
+              style={{
+                width: "35pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                2
+              </p>
+            </td>
+            <td
+              style={{
+                width: "45pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                Initial
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <table
+        style={{ borderCollapse: "collapse" }}
+        cellSpacing={0}
+      >
+        <tbody>
+          <tr style={{ height: "14pt" }}>
+            <td
+              style={{
+                width: "52pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingLeft: "19pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                0.1
+              </p>
+            </td>
+            <td
+              style={{
+                width: "50pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingLeft: "20pt",
+                  paddingRight: "18pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                0.5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "42pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingLeft: "17pt",
+                  paddingRight: "12pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                98
+              </p>
+            </td>
+            <td
+              style={{
+                width: "39pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingLeft: "15pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                2
+              </p>
+            </td>
+            <td
+              style={{
+                width: "41pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingLeft: "15pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                6
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "52pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "18pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                5.0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "50pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "20pt",
+                  paddingRight: "18pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                0.5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "42pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "17pt",
+                  paddingRight: "12pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                40
+              </p>
+            </td>
+            <td
+              style={{
+                width: "39pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "12pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                60
+              </p>
+            </td>
+            <td
+              style={{
+                width: "41pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "15pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                6
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "52pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "18pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                6.5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "50pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "20pt",
+                  paddingRight: "18pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                0.5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "42pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "39pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "12pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                95
+              </p>
+            </td>
+            <td
+              style={{
+                width: "41pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "16pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                1
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "52pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "19pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                7.0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "50pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "20pt",
+                  paddingRight: "18pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                0.5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "42pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "17pt",
+                  paddingRight: "12pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                98
+              </p>
+            </td>
+            <td
+              style={{
+                width: "39pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "15pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                2
+              </p>
+            </td>
+            <td
+              style={{
+                width: "41pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "16pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                1
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p
+        className="s10"
+        style={{
+          paddingTop: "7pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Table 1. Gradient conditions, total run time: 7.5 min.
+      </p>
+      <h3
+        style={{
+          paddingTop: "4pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        MS conditions
+      </h3>
+      <p
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        MS system: Xevo TQD Mass Spectrometer
+      </p>
+      <p
+        style={{
+          paddingTop: "7pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Data acquisition
+      </p>
+      <p
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          lineHeight: "164%",
+          textAlign: "left",
+        }}
+      >
+        and processing: MassLynx™ v4.1 with TargetLynx™ Ionization mode: ESI-
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "11pt",
+          textAlign: "left",
+        }}
+      >
+        Capillary voltage: 2.5 kV
+      </p>
+      <p
+        style={{
+          paddingTop: "7pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Acquisition mode: Multiple reaction monitoring
+      </p>
+      <p
+        style={{
+          paddingTop: "3pt",
+          textIndent: "0pt",
+          textAlign: "center",
+        }}
+      >
+        (MRM – Table 2)
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <table
+        style={{ borderCollapse: "collapse", marginLeft: "33.4134pt" }}
+        cellSpacing={0}
+      >
+        <tbody>
+          <tr style={{ height: "27pt" }}>
+            <td
+              style={{
+                width: "59pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s8"
+                style={{
+                  paddingTop: "8pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "4pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Compound
+              </p>
+            </td>
+            <td
+              style={{
+                width: "67pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s8"
+                style={{
+                  paddingLeft: "22pt",
+                  textIndent: "-17pt",
+                  lineHeight: "12pt",
+                  textAlign: "left",
+                }}
+              >
+                Precursor ion (<i>m/z</i>)
+              </p>
+            </td>
+            <td
+              style={{
+                width: "62pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s8"
+                style={{
+                  paddingLeft: "18pt",
+                  textIndent: "-13pt",
+                  lineHeight: "12pt",
+                  textAlign: "left",
+                }}
+              >
+                Product ion (<i>m/z</i>)
+              </p>
+            </td>
+            <td
+              style={{
+                width: "63pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s8"
+                style={{
+                  paddingTop: "8pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Trace type
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "59pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "4pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                EtG
+              </p>
+            </td>
+            <td
+              style={{
+                width: "67pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "22pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                221.1
+              </p>
+            </td>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "20pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                75.0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "63pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Quantifier
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "59pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "4pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                EtG
+              </p>
+            </td>
+            <td
+              style={{
+                width: "67pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "22pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                221.1
+              </p>
+            </td>
+            <td
+              style={{
+                width: "62pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "20pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                85.0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "63pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Qualifier
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "59pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "4pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                EtS
+              </p>
+            </td>
+            <td
+              style={{
+                width: "67pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "22pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                125.0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                97.0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "63pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Quantifier
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "59pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "4pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                EtG-D5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "67pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "22pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                226.1
+              </p>
+            </td>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "20pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                75.0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "63pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Quantifier
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "59pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "4pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                EtG-D5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "67pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "22pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                226.1
+              </p>
+            </td>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "20pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                85.0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "63pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "6pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Qualifier
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "59pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "4pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                EtS-D5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "67pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "22pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                130.0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "20pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                98.0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "63pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E6E7E8"
+            >
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "6pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Quantifier
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p
+        className="s10"
+        style={{
+          paddingTop: "8pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Table 2. MRM conditions for EtG, EtS, and corresponding internal
+        standards.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <table
+        style={{ borderCollapse: "collapse"}}
+        cellSpacing={0}
+      >
+        <tbody>
+          <tr style={{ height: "23pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s12"
+                style={{
+                  paddingTop: "2pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                RESULTS AND DISCUSSION
+              </p>
+            </td>
+            <td style={{ width: "293pt" }} colSpan={4}>
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "11pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "left",
+                }}
+              >
+                A series of calibrators and quality control (QC)
+              </p>
+            </td>
+            <td style={{ width: "83pt" }} bgcolor="#008ACE">
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+            <td style={{ width: "72pt" }} bgcolor="#008ACE">
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+            <td style={{ width: "66pt" }} bgcolor="#008ACE">
+              <p
+                className="s13"
+                style={{
+                  paddingTop: "2pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  lineHeight: "7pt",
+                  textAlign: "right",
+                }}
+              >
+                EtG conc.
+              </p>
+            </td>
+            <td style={{ width: "72pt" }} bgcolor="#008ACE">
+              <p
+                className="s13"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  lineHeight: "7pt",
+                  textAlign: "center",
+                }}
+              >
+                EtS conc.
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                samples were prepared by diluting the stock
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s13"
+                style={{
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  lineHeight: "7pt",
+                  textAlign: "center",
+                }}
+              >
+                QC or Calibrator
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s13"
+                style={{
+                  paddingLeft: "9pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "7pt",
+                  textAlign: "center",
+                }}
+              >
+                % Threshold
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s13"
+                style={{
+                  paddingTop: "4pt",
+                  paddingRight: "19pt",
+                  textIndent: "0pt",
+                  textAlign: "right",
+                }}
+              >
+                (ng/mL)
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s13"
+                style={{
+                  paddingTop: "4pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                (ng/mL)
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{ textIndent: "0pt", textAlign: "left" }}
+              >
+                solution of non-deuterated EtG/EtS in negative
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                S-200/LOD
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                40
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "26pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                200
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                100
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{ textIndent: "0pt", textAlign: "left" }}
+              >
+                human urine (Table 3). Following the simple
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                S-500
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                100
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "26pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                500
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                250
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{ textIndent: "0pt", textAlign: "left" }}
+              >
+                sample preparation, multiple reaction monitoring
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                S-1000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                200
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "26pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                1000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                500
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{ textIndent: "0pt", textAlign: "left" }}
+              >
+                (MRM) was performed using two transitions for
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                S-2500
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                500
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "21pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                2500
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                1250
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{ textIndent: "0pt", textAlign: "left" }}
+              >
+                EtG and EtG-D5, and one transition for EtS and
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                S-5000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                1000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "21pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                5000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                2500
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{ textIndent: "0pt", textAlign: "left" }}
+              >
+                EtS-D5 (Figure 1). For EtG a target quantifier/
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                S-10000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                2000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "20pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                10000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                5000
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{ textIndent: "0pt", textAlign: "left" }}
+              >
+                qualifier ion ratio was determined, using the
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                QCNEG
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingRight: "1pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingRight: "3pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                0
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingRight: "2pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                0
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{ textIndent: "0pt", textAlign: "left" }}
+              >
+                threshold calibrator (EtG/EtS: 500/250 ng/mL),
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                QC1
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                40
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "26pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                200
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                100
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{ textIndent: "0pt", textAlign: "left" }}
+              >
+                and subsequently used to monitor QC’s and
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                QC2
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                125
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "22pt",
+                  paddingRight: "26pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                625
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                312.5
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td style={{ width: "216pt" }}>
+              <p
+                className="s9"
+                style={{
+                  paddingTop: "1pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                unknown samples. Acceptability criteria included
+              </p>
+            </td>
+            <td
+              style={{
+                width: "83pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                QC3
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "9pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                1600
+              </p>
+            </td>
+            <td
+              style={{
+                width: "66pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "21pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                8000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "72pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                4000
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p
+        style={{
+          paddingTop: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        +/- 20% of target ion ratio.
+      </p>
+      <p
+        className="s10"
+        style={{
+          paddingTop: "8pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Table 3. Method calibrators and QC’s concentrations and corresponding
+        percent of cut-off (EtG: 500 ng/mL, EtS: 250 ng/mL).
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          A. EtG 221.1&gt;75 Quant
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          2.1e
+        </span>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "4.5pt",
+            verticalAlign: "4pt",
+          }}
+        >
+          3
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          B. EtG 221.1&gt;85 Qual
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          3.3e
+        </span>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "4.5pt",
+            verticalAlign: "4pt",
+          }}
+        >
+          3
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          C. EtG-d5 226.1&gt;75 Quant
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          1.2e
+        </span>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "4.5pt",
+            verticalAlign: "4pt",
+          }}
+        >
+          4
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          D. EtG-d5 226.1&gt;85 Qual
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          1.3e
+        </span>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "4.5pt",
+            verticalAlign: "4pt",
+          }}
+        >
+          4
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          E. EtS 125&gt;97 Quant
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          5.5e
+        </span>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "4.5pt",
+            verticalAlign: "4pt",
+          }}
+        >
+          4
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          F. EtS-d5 130&gt;98 Quant
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          2.6e
+        </span>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "4.5pt",
+            verticalAlign: "4pt",
+          }}
+        >
+          5
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "8.5pt",
+          }}
+        >
+          EtG: 500 ng/mL (0.5 mg/L) EtS: 250 ng/mL (0.25 mg/L)
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span />
+      </p>
+      <table border={0} cellSpacing={0} cellPadding={0}>
+        <tbody>
+          <tr>
+            <td>
+              <img
+                width={422}
+                height={343}
+                src="data:image/png;base64,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"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p />
+      <p
+        className="s10"
+        style={{
+          paddingTop: "6pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Figure 1. MRM chromatograms from a 10 µL injection of a 500/250 ng/mL
+        EtG/EtS urine calibrator. (A) EtG quantifier ion,
+      </p>
+      <p
+        className="s10"
+        style={{textIndent: "0pt", textAlign: "left" }}
+      >
+        (B) EtG qualifier ion, (C) EtG-D5 quantifier ion, (D) EtG-D5 qualifier
+        ion, (E) EtS quantifier ion, (F) EtS-D5 quantifier ion.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span />
+      </p>
+      <table border={0} cellSpacing={0} cellPadding={0}>
+        <tbody>
+          <tr>
+            <td>
+              <img
+                width={277}
+                height={53}
+                src="data:image/png;base64,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"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p />
+      <p
+        style={{
+          paddingTop: "5pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        Calibration curves were generated based on the ratio of the response of
+        the analyte’s quantifier ion relative to the response of the quantifier
+        ion for the respective deuterated internal standard. Regression lines
+        were plotted using a 1/x weighting. Calibration curves for EtG (r
+        <span className="s1">2 </span>range: 0.991–0.999) and EtS (r
+        <span className="s1">2 </span>range: 0.997–0.999) were linear over the
+        analytical ranges investigated,
+      </p>
+      <p style={{  textIndent: "0pt", textAlign: "left" }}>
+        and extended from 200 to 10,000 ng/mL and
+      </p>
+      <p
+        style={{
+          paddingTop: "3pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        100 to 5,000 ng/mL for EtG and EtS, respectively (Figure 2). The cut-off
+        for the assay was set at 500 ng/mL for EtG and 250 ng/mL for EtS. The
+        limits of detection (LOD) were determined using the lowest non-zero
+        calibrator approach. LOD’s for EtG and EtS were set at 200 ng/mL and
+      </p>
+      <p style={{  textIndent: "0pt", textAlign: "left" }}>
+        EtS 100 ng/mL, respectively.
+      </p>
+      <p
+        style={{
+          paddingTop: "8pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        The precision and accuracy of the method were assessed at three QC
+        concentrations for EtG (200, 625, 8000 ng/mL) and EtS (100,
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        312.5, 4000 ng/mL). Based on 11 analytical runs, consisting of three or
+        four replicates, the assay precision (%CV) and accuracy for EtG ranged
+        from 8.4 to 19.6, and 98.4% to 103.6%, respectively. The assay precision
+        and accuracy for EtS ranged from 4.7 to 18.2, and 96.4 to 110.8%,
+        respectively. In all, the method showed good precision and accuracy as
+        summarized in Table 4.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "9pt",
+          paddingLeft: "16pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "10.5pt",
+          }}
+        >
+          A.
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ paddingLeft: "16pt", textIndent: "0pt", textAlign: "left" }}>
+        <span />
+      </p>
+      <table border={0} cellSpacing={0} cellPadding={0}>
+        <tbody>
+          <tr>
+            <td>
+              <img
+                width={345}
+                height={143}
+                src="data:image/png;base64,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"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p />
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ paddingLeft: "16pt", textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "10.5pt",
+          }}
+        >
+          B.
+        </span>
+      </p>
+      <p style={{ paddingLeft: "15pt", textIndent: "0pt", textAlign: "left" }}>
+        <span />
+      </p>
+      <table border={0} cellSpacing={0} cellPadding={0}>
+        <tbody>
+          <tr>
+            <td>
+              <img
+                width={279}
+                height={53}
+                src="data:image/png;base64,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"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p />
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span />
+      </p>
+      <table border={0} cellSpacing={0} cellPadding={0}>
+        <tbody>
+          <tr>
+            <td>
+              <img
+                width={353}
+                height={143}
+                src="data:image/png;base64,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"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p />
+      <p
+        className="s10"
+        style={{
+          paddingTop: "8pt",
+          paddingLeft: "16pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Figure 2. Representative calibration curves for (A) EtG (analytical
+        range: 200 to 10,000 ng/mL) and (B) EtS (analytical range: 100 to 5000
+        ng/mL).
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <table style={{ borderCollapse: "collapse" }} cellSpacing={0}>
+        <tbody>
+          <tr style={{ height: "11pt" }}>
+            <td
+              style={{
+                width: "52pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              rowSpan={2}
+              bgcolor="#008ACE"
+            >
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+            <td style={{ width: "43pt" }} bgcolor="#008ACE">
+              <p
+                className="s13"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "2pt",
+                  paddingRight: "3pt",
+                  textIndent: "0pt",
+                  lineHeight: "8pt",
+                  textAlign: "center",
+                }}
+              >
+                QC conc.
+              </p>
+            </td>
+            <td style={{ width: "55pt" }} bgcolor="#008ACE">
+              <p
+                className="s13"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "4pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "8pt",
+                  textAlign: "center",
+                }}
+              >
+                Accuracy
+              </p>
+            </td>
+            <td style={{ width: "74pt" }} bgcolor="#008ACE">
+              <p
+                className="s13"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  lineHeight: "8pt",
+                  textAlign: "center",
+                }}
+              >
+                Precision
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "43pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s13"
+                style={{
+                  paddingLeft: "2pt",
+                  paddingRight: "3pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                (ng/mL)
+              </p>
+            </td>
+            <td
+              style={{
+                width: "55pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s13"
+                style={{
+                  paddingLeft: "4pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                (%) (n=35)
+              </p>
+            </td>
+            <td
+              style={{
+                width: "74pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s13"
+                style={{
+                  paddingLeft: "7pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                (% CV) (n=35)
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "52pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+              }}
+            >
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+            <td
+              style={{
+                width: "43pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "2pt",
+                  paddingRight: "3pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                8000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "55pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "4pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                103.6
+              </p>
+            </td>
+            <td
+              style={{
+                width: "74pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                8.4
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td style={{ width: "52pt" }}>
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "19pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                EtG
+              </p>
+            </td>
+            <td
+              style={{
+                width: "43pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "2pt",
+                  paddingRight: "3pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                625
+              </p>
+            </td>
+            <td
+              style={{
+                width: "55pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "4pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                98.4
+              </p>
+            </td>
+            <td
+              style={{
+                width: "74pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                12.8
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "13pt" }}>
+            <td style={{ width: "52pt" }}>
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+            <td
+              style={{
+                width: "43pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "2pt",
+                  paddingRight: "3pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                200
+              </p>
+            </td>
+            <td
+              style={{
+                width: "55pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "4pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                98.4
+              </p>
+            </td>
+            <td
+              style={{
+                width: "74pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "9pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                19.6
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p
+        className="s15"
+        style={{
+          paddingTop: "5pt",
+          paddingLeft: "231pt",
+          textIndent: "0pt",
+          textAlign: "center",
+        }}
+      >
+        Compound
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <table
+        style={{ borderCollapse: "collapse", marginLeft: "252.4pt" }}
+        cellSpacing={0}
+      >
+        <tbody>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "52pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              rowSpan={3}
+              bgcolor="#F1F2F2"
+            >
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+              <p
+                className="s14"
+                style={{
+                  paddingLeft: "19pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                EtS
+              </p>
+            </td>
+            <td
+              style={{
+                width: "45pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "11pt",
+                  paddingRight: "14pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                4000
+              </p>
+            </td>
+            <td
+              style={{
+                width: "58pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "14pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                102.9
+              </p>
+            </td>
+            <td
+              style={{
+                width: "69pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "26pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                4.7
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "45pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "11pt",
+                  paddingRight: "14pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                312.5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "58pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "16pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                96.4
+              </p>
+            </td>
+            <td
+              style={{
+                width: "69pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "24pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                10.7
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "15pt" }}>
+            <td
+              style={{
+                width: "45pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "11pt",
+                  paddingRight: "14pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                100
+              </p>
+            </td>
+            <td
+              style={{
+                width: "58pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "15pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                110.8
+              </p>
+            </td>
+            <td
+              style={{
+                width: "69pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "24pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                18.2
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p
+        className="s10"
+        style={{
+          paddingTop: "8pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Table 4. Summary of method precision and accuracy data.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "5pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        Matrix effects were evaluated using aqueous versus urine based control
+        samples through the analysis of 10 negative urine specimens and aqueous
+        mobile phase spiked with EtG and EtS at 1000 and 500 ng/mL,
+        respectively. Percent matrix effect was calculated using the following
+        formula: [(A/B – 1) × 100%] where A represents the ion response in urine
+        matrix and B represents the ion response without urine matrix present.
+        Ion effects varied from 1% to -58% for EtG and -54% to 94.6% for EtS.
+        Based on dilute and shoot sample injections, ion suppression of greater
+        than 20% was anticipated, however for this reason analyte-matched
+        deuterated internal standards were incorporated into the method to
+        compensate for matrix effects. Normalization of the data using this
+        approach resulted in a robust assay and satisfied the criteria for
+        precision and accuracy.
+      </p>
+      <p
+        style={{
+          paddingTop: "5pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        The stability of EtG and EtS were assessed in both primary specimens and
+        prepared samples following a five day storage period at -10 °C and 4 °C,
+        respectively. Results from reanalysis of primary specimens (n=6),
+        calibrator, and QC samples were within 20% of the results obtained on
+        initial analysis.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <table
+        style={{ borderCollapse: "collapse"}}
+        cellSpacing={0}
+      >
+        <tbody>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "solid",
+                borderRightWidth: "1pt",
+                borderRightColor: "#FFFFFF",
+              }}
+              bgcolor="#008ACE"
+            >
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+            <td
+              style={{
+                width: "180pt",
+                borderLeftStyle: "solid",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#FFFFFF",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "solid",
+                borderRightWidth: "1pt",
+                borderRightColor: "#FFFFFF",
+              }}
+              colSpan={2}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s13"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "65pt",
+                  paddingRight: "65pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                EtG (ng/mL)
+              </p>
+            </td>
+            <td
+              style={{
+                width: "203pt",
+                borderLeftStyle: "solid",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#FFFFFF",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              colSpan={2}
+              bgcolor="#008ACE"
+            >
+              <p
+                className="s13"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "78pt",
+                  paddingRight: "78pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                EtS (ng/mL)
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "21pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "solid",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#E0ECF7"
+            >
+              <p
+                className="s16"
+                style={{
+                  paddingTop: "5pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Identifier
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "solid",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E0ECF7"
+            >
+              <p
+                className="s16"
+                style={{
+                  paddingTop: "5pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Reference method
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "solid",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#E0ECF7"
+            >
+              <p
+                className="s16"
+                style={{
+                  paddingTop: "5pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Developed method
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "solid",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E0ECF7"
+            >
+              <p
+                className="s16"
+                style={{
+                  paddingTop: "5pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Reference method
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#E0ECF7"
+            >
+              <p
+                className="s16"
+                style={{
+                  paddingTop: "5pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Developed method
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 1
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                512
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                710
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                NA
+              </p>
+            </td>
+            <td style={{ width: "116pt" }} bgcolor="#939598">
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 2
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                6871
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                8132
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2118
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2583
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 3
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1431
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1840
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1411
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1847
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 4
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2194
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1854
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                872
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                982
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 5
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                5892
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                8087
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                &gt;5000
+              </p>
+            </td>
+            <td style={{ width: "116pt" }} bgcolor="#939598">
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 6
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1542
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1506
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                510
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                586
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 7
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                942
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1170
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                332
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                364
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 8
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                3174
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                4340
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                465
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                546
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 9
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                623
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                316
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                425
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                327
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 10
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                709
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                389
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                416
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                291
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 11
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1772
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1812
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                974
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                991
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 12
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                7632
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                7021
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1497
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1285
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 13
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                5360
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                5076
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                763
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                842
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 14
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2770
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2483
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1332
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1051
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 15
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                8431
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                8433
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                4024
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                3046
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 16
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                5220
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                3941
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1056
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                863
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 17
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1838
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1503
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                429
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                285
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 18
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                5679
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                8146
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1514
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1023
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 19
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                6512
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                5063
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2224
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1695
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 20
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2455
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1796
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                332
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                274
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 21
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1710
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1581
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                355
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                362
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 22
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1255
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1273
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                964
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                842
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 23
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2190
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1532
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                744
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                614
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 24
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                704
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                783
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                250
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                165
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 25
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                8448
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                9354
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2793
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2761
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 26
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1914
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1526
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1097
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                768
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 27
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1414
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1642
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                333
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                373
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 28
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1759
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1391
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                346
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                272
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 29
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                3605
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1953
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                452
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                284
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 30
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1763
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1206
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1013
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1086
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 31
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                5314
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                4667
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1312
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1168
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 32
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2166
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                4603
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2341
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2018
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 33
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                1124
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                927
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                267
+              </p>
+            </td>
+            <td
+              style={{
+                width: "116pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "21pt",
+                  paddingRight: "21pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                227
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "12pt" }}>
+            <td
+              style={{
+                width: "62pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "13pt",
+                  paddingRight: "13pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                case 34
+              </p>
+            </td>
+            <td
+              style={{
+                width: "86pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "5pt",
+                  paddingRight: "8pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2483
+              </p>
+            </td>
+            <td
+              style={{
+                width: "94pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+                borderRightStyle: "dashed",
+                borderRightWidth: "1pt",
+                borderRightColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "8pt",
+                  paddingRight: "11pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                2468
+              </p>
+            </td>
+            <td
+              style={{
+                width: "87pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+                borderLeftStyle: "dashed",
+                borderLeftWidth: "1pt",
+                borderLeftColor: "#939598",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+              bgcolor="#F1F2F2"
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "7pt",
+                  textIndent: "0pt",
+                  lineHeight: "9pt",
+                  textAlign: "center",
+                }}
+              >
+                NA
+              </p>
+            </td>
+            <td style={{ width: "116pt" }} bgcolor="#939598">
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p
+        className="s10"
+        style={{
+          paddingTop: "9pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Table 5. Quantitative EtG and EtS results obtained from reference method
+        (MedTox Laboratories, Inc.) and developed method. Data from the
+        developed method was not tabulated (shaded cells) and indicated when
+        quantitation from the reference method was not available (NA).
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "5pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        Method correlation studies were performed using de-identified casework
+        specimens (n=34) with positive presumptive and confirmatory results for
+        EtG and/or EtS. Initial presumptive results were obtained using a
+        qualitative Microgenics DRI® EtG Enzyme immunoassay analysis with a 500
+        ng/mL cutoff. Quantitative EtG and EtS results were obtained from MedTox
+        Laboratories, Inc. (Minnesota, USA) using a currently validated
+        confirmatory LC-MS/MS method (reference method). Following initial
+        analyses,
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        the specimens were stored at -10 °C for a period of six months. Table 5
+        shows the results from the reference and developed methods. Analysis of
+        the concentrations obtained by both methods shows dispersion in the data
+        as expected between laboratories (Figure 3). However, statistical
+        analysis did not show method bias based upon linear regression analysis
+        using 95% confidence limit for the slope and y-intercept (Table 6).
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <h4
+        style={{
+          paddingTop: "6pt",
+          paddingLeft: "4pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        EtG
+      </h4>
+      <p
+        style={{  textIndent: "0pt", textAlign: "left" }}
+      />
+      <p
+        className="s17"
+        style={{
+          paddingTop: "2pt",
+          paddingLeft: "107pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Regression statistics
+      </p>
+      <p
+        style={{ textIndent: "0pt", textAlign: "left" }}
+      />
+      <p style={{ paddingLeft: "2pt", textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "bold",
+            textDecoration: "none",
+            fontSize: "7.5pt",
+          }}
+        >
+          EtG Quantification: Lab Developed vs. Reference Method
+        </span>
+      </p>
+      <p style={{ paddingTop: "7pt", textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          10000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          9000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ paddingTop: "4pt", textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          8000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "center" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5.5pt",
+          }}
+        >
+          y = 1.0518x - 130.88 r² = 0.8763
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "center" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5.5pt",
+          }}
+        >
+          n= 34
+        </span>
+      </p>
+      <p style={{ paddingLeft: "1pt", textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          7000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          6000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          5000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          4000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          3000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          2000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          1000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "9pt",
+          textIndent: "0pt",
+          lineHeight: "6pt",
+          textAlign: "left",
+        }}
+      >
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          0
+        </span>
+      </p>
+      <p
+        style={{
+          paddingLeft: "14pt",
+          textIndent: "0pt",
+          lineHeight: "6pt",
+          textAlign: "left",
+        }}
+      >
+        <span
+          style={{
+            color: "#231F20",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          0 1000 2000 3000 4000 5000 6000 7000 8000 9000
+        </span>
+      </p>
+      <p
+        className="s19"
+        style={{
+          paddingTop: "2pt",
+          paddingLeft: "71pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        EtG Reference Method, ng/mL
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "bold",
+            textDecoration: "none",
+            fontSize: "7.5pt",
+          }}
+        >
+          EtS Quantification: Lab Developed vs. Reference Method
+        </span>
+      </p>
+      <p
+        style={{
+          paddingTop: "5pt",
+          paddingLeft: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          4000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          3500
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          3000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "center" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5.5pt",
+          }}
+        >
+          y = 0.8526x + 55.475 R = 0.9111
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "center" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5.5pt",
+          }}
+        >
+          n= 31
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "right" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          2500
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "right" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          2000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "right" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          1500
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "right" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          1000
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "right" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          500
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "right" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          0
+        </span>
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span
+          style={{
+            color: "#020303",
+            fontFamily: "Arial, sans-serif",
+            fontStyle: "normal",
+            fontWeight: "normal",
+            textDecoration: "none",
+            fontSize: "5pt",
+          }}
+        >
+          0 500 1000 1500 2000 2500 3000 3500 4000 4500
+        </span>
+      </p>
+      <p
+        className="s19"
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "67pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        EtS Reference Method, ng/mL
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span />
+      </p>
+      <table border={0} cellSpacing={0} cellPadding={0}>
+        <tbody>
+          <tr>
+            <td>
+              <img
+                width={4}
+                height={3}
+                src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAADAAQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjvHkdyPjv8ZQmrazAo8Y3g2wavdRj/Vw44WQdBgD0AAHAABRRQB//2QAA"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={4}
+                  height={3}
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANklEQVQImQXBQQqAMAwAwbVC8VZa/E/8eSIUv7XOoPJWhUpWBSr3WmZmHO20AYwx+fZ+rt75AbnyFYHCV4EKAAAAAElFTkSuQmCC"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={4}
+                  height={3}
+                  src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAADAAQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjvHkdyPjv8ZQmrazAo8Y3g2wavdRj/Vw44WQdBgD0AAHAABRRQB//2QAA"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={4}
+                  height={3}
+                  src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAADAAQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjvHkdyPjv8ZQmrazAo8Y3g2wavdRj/Vw44WQdBgD0AAHAABRRQB//2QAA"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={4}
+                  height={4}
+                  src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAEAAQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0Xxr8H73Vvi78SruL4mePtLWbxBJJ9m0/V0jhTdBCwVVMRwqghAM8KqjnGaKKKCWf/9kA"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={4}
+                  height={4}
+                  src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAEAAQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0Xxr8H73Vvi78SruL4mePtLWbxBJJ9m0/V0jhTdBCwVVMRwqghAM8KqjnGaKKKCWf/9kA"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={10}
+                  height={5}
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAArElEQVQImV3DvQqCUBgG4O80KngcDbyFiLbqMvKCXHN2KAjyDmoOr8HmcEyFqCWy0PPj97ZGDzxktMbheMRyMUccx9BaSwD0m5lJ9EpjNp3QpSzJdVyq69r3PA8EbswA2m031NQVkVYKyTpBMA6wiiL0fS+ZWVpjUBRnhGEI3/dBwNC+Pl2b7bP2WlUtM3vMLK21OOU5XMeBGAkWAOgfAMnWPN+dojRN6XG/4QvMP3vDDilGdgAAAABJRU5ErkJgggAA"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={4}
+                  height={4}
+                  src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAEAAQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0Xxr8H73Vvi78SruL4mePtLWbxBJJ9m0/V0jhTdBCwVVMRwqghAM8KqjnGaKKKCWf/9kA"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={4}
+                  height={4}
+                  src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAEAAQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0Xxr8H73Vvi78SruL4mePtLWbxBJJ9m0/V0jhTdBCwVVMRwqghAM8KqjnGaKKKCWf/9kA"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <p />
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p
+        className="s18"
+        style={{
+          paddingTop: "1pt",
+          paddingLeft: "71pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Multiple R 0.9361
+      </p>
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "73pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        R Square 0.8763
+      </p>
+      <p
+        className="s19"
+        style={{
+          paddingTop: "1pt",
+          paddingLeft: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        EtG Lab Developed Method, ng/mL
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "56pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Adjusted R square 0.8725
+      </p>
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "63pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Standard error 964.1767
+      </p>
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingBottom: "1pt",
+          paddingLeft: "65pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Observations 34
+      </p>
+      <p
+        className="s17"
+        style={{
+          paddingTop: "2pt",
+          paddingLeft: "123pt",
+          textIndent: "0pt",
+          textAlign: "center",
+        }}
+      >
+        Coefficients
+      </p>
+      <p
+        style={{  textIndent: "0pt", textAlign: "left" }}
+      />
+      <p
+        className="s18"
+        style={{ paddingLeft: "73pt", textIndent: "0pt", textAlign: "left" }}
+      >
+        Intercept -130.8756
+      </p>
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingBottom: "1pt",
+          paddingLeft: "69pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        X Variable 1 1.0518
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "1pt",
+          textAlign: "left",
+        }}
+      />
+      <p
+        className="s10"
+        style={{
+          paddingTop: "1pt",
+          paddingBottom: "1pt",
+          textIndent: "0pt",
+          textAlign: "right",
+        }}
+      >
+        Standard error t Stat
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "1pt",
+          textAlign: "left",
+        }}
+      />
+      <p
+        className="s18"
+        style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "right" }}
+      >
+        275.7429 -0.4746
+      </p>
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingBottom: "1pt",
+          textIndent: "0pt",
+          textAlign: "right",
+        }}
+      >
+        0.0699 15.0581
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "1pt",
+          textAlign: "left",
+        }}
+      />
+      <p
+        className="s10"
+        style={{
+          paddingTop: "1pt",
+          paddingBottom: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        P-value <span className="s18">Lower 95% Upper 95%</span>
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "1pt",
+          textAlign: "left",
+        }}
+      />
+      <p
+        className="s18"
+        style={{
+          paddingTop: "1pt",
+          paddingLeft: "77pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        0.6383 -692.5455 430.7942
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "67pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        4.45922E-16 0.9095 1.1941
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <h4
+        style={{
+          paddingTop: "6pt",
+          paddingLeft: "4pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        EtS
+      </h4>
+      <p
+        style={{ textIndent: "0pt", textAlign: "left" }}
+      />
+      <p
+        className="s17"
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Regression statistics
+      </p>
+      <p
+        style={{  textIndent: "0pt", textAlign: "left" }}
+      />
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p
+        className="s20"
+        style={{
+          paddingTop: "1pt",
+          paddingLeft: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        EtS Lab Developed Method, ng/mL
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p
+        className="s18"
+        style={{ paddingLeft: "71pt", textIndent: "0pt", textAlign: "left" }}
+      >
+        Multiple R 0.9545
+      </p>
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "73pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        R Square 0.9111
+      </p>
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "56pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Adjusted R square 0.9081
+      </p>
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "63pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Standard error 236.7427
+      </p>
+      <p
+        className="s17"
+        style={{
+          paddingTop: "2pt",
+          paddingLeft: "123pt",
+          textIndent: "0pt",
+          textAlign: "center",
+        }}
+      >
+        Coefficients
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingLeft: "65pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Observations 31
+      </p>
+      <p
+        className="s18"
+        style={{
+          paddingTop: "18pt",
+          paddingLeft: "73pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Intercept 55.4750
+      </p>
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingBottom: "1pt",
+          paddingLeft: "69pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        X Variable 1 0.8526
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "1pt",
+          textAlign: "left",
+        }}
+      />
+      <p
+        className="s10"
+        style={{
+          paddingTop: "1pt",
+          paddingBottom: "1pt",
+          textIndent: "0pt",
+          textAlign: "right",
+        }}
+      >
+        Standard error t Stat
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "1pt",
+          textAlign: "left",
+        }}
+      />
+      <p
+        className="s18"
+        style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "right" }}
+      >
+        67.6134 0.8205
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }} />
+      <p
+        className="s18"
+        style={{
+          paddingTop: "4pt",
+          paddingBottom: "2pt",
+          textIndent: "0pt",
+          textAlign: "right",
+        }}
+      >
+        0.0494 17.2436
+      </p>
+      <table
+        style={{ borderCollapse: "collapse", }}
+        cellSpacing={0}
+      >
+        <tbody>
+          <tr style={{ height: "14pt" }}>
+            <td
+              style={{
+                width: "26pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+            <td
+              style={{
+                width: "75pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s21"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "25pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                P-value
+              </p>
+            </td>
+            <td
+              style={{
+                width: "82pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s21"
+                style={{
+                  paddingTop: "1pt",
+                  paddingRight: "17pt",
+                  textIndent: "0pt",
+                  textAlign: "right",
+                }}
+              >
+                Lower 95%
+              </p>
+            </td>
+            <td
+              style={{
+                width: "74pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s21"
+                style={{
+                  paddingTop: "1pt",
+                  paddingLeft: "16pt",
+                  paddingRight: "16pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                Upper 95%
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td
+              style={{
+                width: "26pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+              }}
+            >
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+            <td
+              style={{
+                width: "75pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "25pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                0.4186
+              </p>
+            </td>
+            <td
+              style={{
+                width: "82pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingRight: "20pt",
+                  textIndent: "0pt",
+                  textAlign: "right",
+                }}
+              >
+                -82.8099
+              </p>
+            </td>
+            <td
+              style={{
+                width: "74pt",
+                borderTopStyle: "solid",
+                borderTopWidth: "1pt",
+                borderTopColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "16pt",
+                  paddingRight: "16pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                193.7599
+              </p>
+            </td>
+          </tr>
+          <tr style={{ height: "14pt" }}>
+            <td
+              style={{
+                width: "26pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p style={{ textIndent: "0pt", textAlign: "left" }}>
+                <br />
+              </p>
+            </td>
+            <td
+              style={{
+                width: "75pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "7pt",
+                  paddingRight: "25pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                8.75782E-17
+              </p>
+            </td>
+            <td
+              style={{
+                width: "82pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  textIndent: "0pt",
+                  textAlign: "left",
+                }}
+              >
+                0.7514
+              </p>
+            </td>
+            <td
+              style={{
+                width: "74pt",
+                borderBottomStyle: "solid",
+                borderBottomWidth: "1pt",
+                borderBottomColor: "#939598",
+              }}
+            >
+              <p
+                className="s14"
+                style={{
+                  paddingTop: "2pt",
+                  paddingLeft: "16pt",
+                  paddingRight: "16pt",
+                  textIndent: "0pt",
+                  textAlign: "center",
+                }}
+              >
+                0.9537
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p
+        className="s10"
+        style={{
+          paddingTop: "8pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Table 6. Summary of statistical analysis for correlation study between
+        developed and reference methods.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        className="s10"
+        style={{ paddingLeft: "18pt", textIndent: "0pt", textAlign: "left" }}
+      >
+        Figure 3. Analysis of the concentrations obtained from developed method
+        compared to reference method (MedTox laboratories, Inc).
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "1pt",
+          textAlign: "left",
+        }}
+      />
+      <h2
+        style={{
+          paddingTop: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        CONCLUSIONS
+      </h2>
+      <p
+        style={{
+          paddingTop: "4pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Definitive confirmation of ethanol metabolites is performed
+      </p>
+      <p
+        style={{
+          paddingTop: "3pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        as a biomarker of ethanol use for a wide range of testing purposes.
+      </p>
+      <p
+        style={{
+          paddingTop: "8pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "justify",
+        }}
+      >
+        The developed method is accurate, precise, and demonstrates the
+        analytical sensitivity necessary for reliable identification of ethanol
+        use based on urine specimen analysis.
+      </p>
+      <p
+        style={{
+          paddingTop: "5pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        The simple sample preparation and short chromatography of the developed
+        method can significantly improve the efficiency of EtG and EtS
+        identification and quantitation in a high-throughput setting.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <h3
+        style={{
+          paddingTop: "8pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Acknowledgements
+      </h3>
+      <p
+        style={{
+          paddingTop: "2pt",
+          textIndent: "0pt",
+          lineHeight: "127%",
+          textAlign: "left",
+        }}
+      >
+        Michelle Wood, Waters Corporation (Wilmslow, UK), Robert Lee, Waters
+        Corporation (Wilmslow, UK), Jonathan Danaceau, Waters Corporation
+        (Milford, MA, USA) and Scott Freeto, Waters Corporation (Beverly, MA,
+        USA) for technical assistance and advice during development of the
+        analytical method.
+      </p>
+      <h3
+        style={{
+          paddingTop: "3pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        References
+      </h3>
+      <ol id="l1">
+        <li data-list-text={1}>
+          <p
+            className="s18"
+            style={{
+              paddingTop: "4pt",
+              textAlign: "left",
+            }}
+          >
+            World Health Organization (WHO).{" "}
+            <i>Global Status Report on Alcohol and Health. </i>p. XIV. 2014 ed.
+          </p>
+        </li>
+        <li data-list-text={2}>
+          <p
+            className="s18"
+            style={{
+              paddingTop: "4pt",
+              textAlign: "left",
+            }}
+          >
+            Jaakonmaki PI, Knox KL, Horning EC, Horning MG.
+          </p>
+          <p
+            className="s10"
+            style={{
+              textIndent: "0pt",
+              textAlign: "left",
+            }}
+          >
+            Eur. J. Pharmacol. <span className="s18">(1967) 1:60–70.</span>
+          </p>
+        </li>
+        <li data-list-text={3}>
+          <p
+            className="s18"
+            style={{
+              paddingTop: "4pt",
+              textAlign: "left",
+            }}
+          >
+            Rosano TG, Lin JJ. <i>Analytical Toxicology. </i>(2008) 32:594–600.
+          </p>
+        </li>
+        <li data-list-text={4}>
+          <p
+            className="s18"
+            style={{
+              paddingTop: "4pt",
+              textAlign: "left",
+            }}
+          >
+            Wurst FM, Skipper GE, Weinmann W. <i>Addiction</i>. (2003) 98 (Suppl
+            2): 51–61.
+          </p>
+        </li>
+      </ol>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          paddingTop: "5pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        For Forensic Toxicology Use Only.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        style={{
+          textIndent: "0pt",
+          lineHeight: "7pt",
+          textAlign: "left",
+        }}
+      >
+        <span />
+      </p>
+      <table border={0} cellSpacing={0} cellPadding={0}>
+        <tbody>
+          <tr>
+            <td>
+              <img
+                width={223}
+                height={10}
+                src="data:image/png;base64,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"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p />
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <span />
+      </p>
+      <table border={0} cellSpacing={0} cellPadding={0}>
+        <tbody>
+          <tr>
+            <td>
+              <img
+                width={19}
+                height={20}
+                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAUCAYAAABvVQZ0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADSUlEQVQ4jZWUW2wTRxSG/921XRRCkQjEJoHulnVspwkYQpFACY6oQ+CBhFwQVIXmreVS4K1PXIREubQIIaFWpVepSmi5SjyCQFRqZCrbIZCwviRKSGxDEN4osdO4OPZ6Tx/IuqYYSo50pDkzc76ZM6P/MESEXCMidHm7arwet0OSpCrfA2nl+Pj4fKPJ9FgQhP6mlub2+g0brun1+jQR4W5XV/XY2FgxADC5sKmpqbeOf3Hs9K8dHbuIiAMBYHJPeh6XLlo0fO6H7zfbbLbeth0f3/zT5aoDAJ22r7+vr+KzXbuvDg0NWQkAyzCqfcVyd0VlZbfNZn0gy7IpGAgu7bl/f/XjyCNha0vrnfMXL9S+VJaiKFy90+kXeYFEXqCa1WtCXo+3mojwX08kEgWHDxz8RuSFzLq1joGtrVs6tTyoqorvvj33uTZR73T64/H42/lAmquqiquXr7SJvKBqeSIvEKLRqNFeURkTeYHMwrsZr9tT8zqQ5ul0mmtubHTnwtgb16+3TE5OzgWA6prqW1Xvr3ThDUyn02UOHzmyb/pbAABsf7BvqfZ8za2tv7AsS/nTXzbRbA4yDPMvbGBgoFwLSkpKIm8KAoDCwsKJovlF0VzYewDAMAwtKC4emQkMACwWq5SFZRSF0wKDwZCaKSwafbowCzOXmQMAQETMqCwbZwJSFEU3PDRcloWJ4nMYAMiyvDB/Wn4bHR01ZTKZrIrYMqvFNz1mOv/orJ8J7I7L5SSirHqZSCTCb6xb708mkwUsy2Zu/n7bwvP8w/8DTUxMzF3nqB2Mx2JF2ZuVlpaGPtn56SkAUFWVO3b06JlUKqV/HUhRFO7rs2cPxWOxeRzHKdkFIkIqldJ/4Kjtn5aF2tTQ6H44OGjJJyNZlhe0bd9xQ+QFdWPdeumjbR/e1uTEaJt8klS1f+/ei+FQ2EwA9Dpdepnd7rFYLdISUQw+GRlZ7Pf5VvT29K569vezwoLZBX/9dvmS4+TxE6e0fvZCc0wmk7O+PHHyq/Pt7XtUVX1lczSaTI9+/PmnTbby8p7c5vgCTCv7Xnf3Gq/HuzYQ8NsD/sDySDi8xGg0jrzD84Obm5s6NjU0XDAYDCkiQjgUEhOJxBwA+AdjudWwLcU/qAAAAABJRU5ErkJgggAA"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={31}
+                  height={27}
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAbCAYAAACEP1QvAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEtklEQVRIib2We0wUVxTGv3tZULqgm7oQti6w7K7y2rbxgVWbgjagtFgUEK1t0zQaa2trqyEmTeurIVqxjY3RxAc1BmmLmkZD66uxtsqjLqZBhVV2wCIi6UCLmxXI2mV27u0fMmaQZV1M9SQ3mTPnzP3de+6ZbwaccyjDbrenW+JN3BJv4l+WlGxWxx7HoFAZAQK4/7/R4QL8cZMBaIajPvZt+4U/CeqwcP4kCn7Phpw5JwSckEc+dFmWqcvl0kuSFPqwXE2d3Z6hOM4m53MhlMoAIIqiUR2LiooSE8zm5iGL5Zw4Ghun1tnrMurq7LMu1ddPv+u5qw0NDZVSUlPr06al1byUnn56ytSptYSQQVsilngTC2ZHhYsX7f+ipGS5+p7L5dJvLi7e/lPlj0sYY0OPcMAopfLc7OyjGzZt/CgqOrrz/s4TzGZBcfr7vaNct13RAKCN0PZERo65o8T0+qgu9YQ11TWZq1etOuR2u8cBgE6nu22MjW1NtaVe0uujuq5dvTqpo6Mjvu3GjYmSJI06dfJkYXVV1dzd+/YumDFz5m8DwP5QZfxeWzt7otkiTTRbpG1bS7aoYz6fL4QxBsYYxL/E8bak5D5LnIklWSd4P1m79hu3262TZZkoOYwxSJIUIjidqfnzF9gtcSZmiTOxF1+Yfquvty+CMYZBclc3WF63+JNEWZbJ8mXLKi3xJm4xJcj7S0vXMMYCyqjX6w3Nz51vV+besG7dLsaYP4XjCNTqp06cKPz1l7PzAI6ceTlH3lm6dAchgcUhLCxM2rVn90JKqQ/gqPju+xXXW1pS/MAJAinNsaNH3wZAAYL8goIySmlQDWswGDpSbbZLAAFjTONwOKYM6tCHvdqccwhO4VkA0Gg0/Qlms9DV2flMMHAASE5OutLY0JAGAM1OwTYI/jBl7enp0YmiGAsAPp8v7OX0jD+DBT9oQrNg03CVnA5c8vvuA1Lb0txsU2KUUjk8PNzzqPDuf7pjNOpmGbgk990HGsnr9Y5S4tYJ1qaKw4cz8IhGKZWHVSV/lpiY2Ih7lSE3225aIyIj74SEhATVcH4XMJLkcXr933q9vgsAvF5veHt7u2WkQPVRDv2qYfiuJ4QgKTmpQck5e+ZM7kjAjDGy/tPP9l65fDmNMUaHwAO/5UBeQUEZATgBsGvnzvXd3d3RwYA55/i2vHzloYqKdwvzCy6sWvnBkRGVHQBey82tmDV79kkA6OvtG1u86fMdsiwHnIdzjqrzVdlflWzbCgCMMbogL698xHBKKS/esvk9rVbbAwAnjh9/fWFe/oW2G21WRcvVUEmSNGUHDnz8/ooVxzweTwQAXrh40f7MOVmVI+p2xQwGQ8ee0tL5a4uKDnaKorGxoWFabk5O/aTJk+3WCdZrySkpl++43U+3trYmVp07ny2KYpyynsVLluzbsHHjakKIn384lcgEWsCMmTPOnfr5tO3r7duLy8sOfujxeCJqq2uyaqtrsoYkE3CdTudaU1S07o233tyj6AdRl6m3t3dMsyDYACAmJqZjvNHYHkwlHA7HpD8uXkwXBMHmbGp6/nrL9ZSntNo+Q0zMLWOssS37lVd/yJyTVTl69Oh/1c/9Bzw6jBaHiOwxAAAAAElFTkSuQmCC"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <span>
+        <table border={0} cellSpacing={0} cellPadding={0}>
+          <tbody>
+            <tr>
+              <td>
+                <img
+                  width={26}
+                  height={20}
+                  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAUCAYAAACTQC2+AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAD/UlEQVRIia2UbUxbZRTHT1tYKW0pEufKi7RwkRbKS8uL0qwobtDJltGtGwO2qXGgcSEOjIuZi1Fi4qAQk+mXDRiamL3ETUnp1iIsKugmkDgzeSkUt5LaalvaiqXtpZ3dffwgF6FQJstO8k/Ofe7/nN997snzUL4fHJQDALDZbLdYIhkBAEAIweDAwM6L58+/brxrFM7OzsbHcDhzDY0NTZVVVZ/CYtis1sRznZ3H9RN6idFoFPi8XvYWLvd3DEudqtiz50JpWVkPnU4PAAAAxuMjjMdHSoViGCEECwsLUa/V1anJ9eW6eePGNoQQIITg7Jkzb4sEQt9aPlLlcvnozMxMGkIIImBZBIPBiLpXjmiHh4a2AQDEx8eb8wsLf+BwYuZsVtuTRVLpAADAVY2muq1FpVosQ2VyuTovP28IKBR0Z/rXzF6drhLHcda0YTr7gHLfj739/aIVO2ptaWnGeHwkk0pNt366JSUIAsgdkAoGgzRxVvZfGI+P0vgp9/v7+hShHqfDuVmpUAyTvZvee/+TJZA4K3sujZ9yf2+FYsTlcj0eWkxqUq/PIWsOVVd/G85ntVoTSmTFdz/r6mrw+/30pV/n8XhiaTRasLlVVRsXF+eEMGEymTAyZzCifeF8XC73j28GB56iUqkEAAB1+cuqmpoOgUAwHq4YAABLS5si85Hh4ZKpycmccF4Ssgqk3Kf8fD0IAACGYZOy4uJ+AAAcx1mHqmu+O9fR+RaO48z16igYj48Wc3R7bIzDYrM8D4LZbbaEV4/UXtPr9RJyLZrJ9Gwv3X519+6KS8XPPdsXGRn598ovXBysrEj6W7jBriW/309vU6lO5Yqy3KHnp1CSZ/+gqem00+F4gvQvgfZW/HtgNyq3283pONt+vFwuHw0F5ueKnTqtdv8KEHkzPKwIgoCJ8XHxyRMn2rOEGV6yb2a6YMFgMIgeGWi5LGYzr7zsvx3WHz16mbpq0o8gEpOSTB99fPow+WyYMuQ8FMhqtSaN/jJasJ5HKBSOsVgsNwDArN2esCHQ/Pw8p/nDU22lJc9PH6uvv4zjeHQ4r8vl2uz1emMAADIyM25vCIQIgqru7n4pEAgwLBZLysuHX7zucDi2hPoCgUDUu++cbAcACgDA088UDS4d2Fxx7shXanXRg2A6rbay8Y1jlwiCoAEAbKJv8st3vNCdnp4+wWQyvWazmd+r01XabbYkAIBMkejnL768IotYv+3q2Llr1xUmk+l5s6Hx4rzb/di9wL2oaxrNwbW8W2Vbrze3ttYyGIwFysT4uBgAIIrBwFNTU6f/L9Dn87E0PT0Hv9bp9pvNlhS7zZbIiY39Mzk52cjj8+5UHqjqKigsuEn6/wGUjboDG6loJQAAAABJRU5ErkJgggAA"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </span>
+      <p />
+      <p
+        className="s22"
+        style={{
+          paddingTop: "5pt",
+          textIndent: "0pt",
+          lineHeight: "117%",
+          textAlign: "left",
+        }}
+      >
+        Waters, The Science of What’s Possible, ACQUITY, UPLC, Xevo, CSH,
+        MassLynx, and TargetLynx are trademarks of Waters Corporation. All other
+        trademarks are the property of their respective owners.
+      </p>
+      <p style={{ textIndent: "0pt", textAlign: "left" }}>
+        <br />
+      </p>
+      <p
+        className="s22"
+        style={{ textIndent: "0pt", textAlign: "left" }}
+      >
+        ©2018 Waters Corporation. Produced in the U.S.A. May 2018 720006273EN
+        AG-PDF
+      </p>
+      <p
+        style={{
+          paddingTop: "5pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        Waters Corporation
+      </p>
+      <p
+        style={{
+          paddingTop: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        34 Maple Street
+      </p>
+      <p
+        style={{
+          paddingTop: "1pt",
+          textIndent: "0pt",
+          lineHeight: "109%",
+          textAlign: "left",
+        }}
+      >
+        Milford, MA 01757 U.S.A. T: 1 508 478 2000
+      </p>
+      <p style={{  textIndent: "0pt", textAlign: "left" }}>
+        F: 1 508 872 1990
+      </p>
+      <p
+        style={{
+          paddingTop: "1pt",
+          textIndent: "0pt",
+          textAlign: "left",
+        }}
+      >
+        <a href="http://www.waters.com/">www.waters.com</a>
+      </p>
+    </>
+  );
+};
+
+export default EtgAndEtsQuantitationByUPLC;

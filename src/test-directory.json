@@ -1,0 +1,2221 @@
+[
+    {
+        "Tests and Panels": "AddictionTox panel",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, amphetamine, benzoylecgonine, buprenorphine, norbuprenorphine, carisoprodol, clonazepam, 7-aminoclonazepam, cocaine, cocaethylene, codeine, dextromethorphan, dextrorphan/levorphanol, diazepam, ephedrine/pseudoephedrine,  fentanyl, norfentanyl, \u03b2 OH fentanyl, fentanyl precursor (4-ANPP), flurazepam, hydroxyethylflurazepam, gabapentin, hydrocodone, hydromorphone, ketamine, lorazepam, MDA, MDMA, meperidine, normeperidine, meprobamate, EDDP, methamphetamine, methyphenidate, ritalinic acid, midazolam, mitragynine, 7-hydroxymitragynine, morphine, 6-acetylmorphine, naloxone, natrexone, oxazepam, oxycodone, noroxycodone, oxymorphone, noroxymorphone, phencyclidine, phentermine, pregabalin, \u03b1 PVP, tapentadol, temazepam, tramadol, N-desmethyltramadol, alphahydroxytriazolam, zaleplon, zolpidem.",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "see individual tests"
+    },
+    {
+        "Tests and Panels": "Alprazolam",
+        "Testing Includes": "alprazolam, \u03b1-hydroxyalprazolam",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Amitriptyline",
+        "Testing Includes": "amitriptyline, nortiptyline",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Amoxapine",
+        "Testing Includes": "amoxapine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Amphetamines",
+        "Testing Includes": "amphetamine, methamphetamine, phentermine, pseudoephedrine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Antidepressants  2 ",
+        "Testing Includes": "amitryptyline, clomipramine, desipramine, doxepin, nordoxepin, imipramine, mirtazapine, nortriptyline",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Antidepressants 1 ",
+        "Testing Includes": "fluoxetine, norfluoxetine, sertraline, norsertraline, paroxetine, duloxetine, citalopram/escitalopram, fluvoxamine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Antidepressants 3",
+        "Testing Includes": "bupropion, hydroxybupropion, trazodone, trazodone metabolite (mCPP), venlafaxine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Antipsychotics",
+        "Testing Includes": "aripiprazole, chlorpromazine, clozapine, haloperidol, lurasidone, olanzapine, quetiapine, risperidone, ziprasidone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "BasicTox panel",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, amphetamine, benzoylecgonine, clonazepam, 7-aminoclonazepam, cocaine, cocaethylene, codeine, diazepam, ephedrine/pseudoephedrine, flurazepam, hydroxyethylflurazepam, hydrocodone, hydromorphone, lorazepam, EDDP, methamphetamine, midazolam, morphine, 6-acetylmorphine, oxazepam, oxycodone, noroxycodone, oxymorphone, noroxymorphone, phencyclidine, phentermine, temazepam, alphahydroxytriazolam.",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "see individual tests"
+    },
+    {
+        "Tests and Panels": "Benzodiazepines",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, clonazepam, 7-aminoclonazepam, diazepam, flurazepam, hydroxyethylflurazepam, lorazepam, midazolam, nordiazepam, oxazepam, temazepam, alphahydroxytriazolam",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Buprenorphine",
+        "Testing Includes": "buprenorphine, norbuprenorphine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Bupropion",
+        "Testing Includes": "bupropion, hydroxybupropion",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Butorphanol",
+        "Testing Includes": "butorphanol",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Cannabidiol",
+        "Testing Includes": "cannabidiol (CBD)",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "10"
+    },
+    {
+        "Tests and Panels": "Cannabinoids",
+        "Testing Includes": "tetrahydrocannabinol (THC), carboxy-tretahydricannabinol (cTHC), cannabidiol (CBD)",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "10"
+    },
+    {
+        "Tests and Panels": "Cannabinoids screen",
+        "Testing Includes": "cannabinoids by immunoassay",
+        "Specimen": "Urine",
+        "Method": "Immunoassay",
+        "Detection Limit   ng/mL ": "50"
+    },
+    {
+        "Tests and Panels": "Carisoprodol",
+        "Testing Includes": "carisoprodol, meprobamate",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Chlorpromazine",
+        "Testing Includes": "chlorpromazine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Citalopram",
+        "Testing Includes": "citalopram/escitalopram",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Clomipramine",
+        "Testing Includes": "clomipramine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Clonazepam",
+        "Testing Includes": "clonazepam, clonazepam, 7-amino",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Clozapine",
+        "Testing Includes": "clozapine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Cocaine",
+        "Testing Includes": "cocaine, cocaethylene, benzoylecgonine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Codeine",
+        "Testing Includes": "codeine, morphine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "20"
+    },
+    {
+        "Tests and Panels": "ComprehensiveTox panel",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, amitriptyline, amphetamine, aripiprazole, benzoylecgonine, bromazolam, buprenorphine, norbuprenorphine, bupropion, hydroxybupropion, carisoprodol, chlorpromazine, citalopram/escitalopram, clomipramine, clonazepam, 7-aminoclonazepam, clozapine, cocaine, cocaethylene, codeine, cotinine, cyclobenzaprene, desipramine, dextromethorphan, dextrorphan/levorphanol, diazepam, doxepin, nordoxepin, duloxetine, ephedrine/pseudoephedrine,  fentanyl, norfentanyl, \u03b2 OH fentanyl, fentanyl precursor (4-ANPP), fluoxetine, norfuoxetine, flurazepam, hydroxyethylflurazepam, fluvoxamine, gabapentin, haloperidol, hydrocodone, hydromorphone, imipramine, ketamine, lorazepam, lurasidone, MDA, MDMA, meperidine, normeperidine, meprobamate, EDDP, methamphetamine, methyphenidate, ritalinic acid, midazolam, mirtazapine,  mitragynine, 7-hydroxymitragynine, morphine, 6-acetylmorphine, naloxone, natrexone, nortiptyline, olanzapine, oxazepam, oxycodone, noroxycodone, oxymorphone, noroxymorphone, paroxetine, phencyclidine, phentermine, pregabalin, \u03b1 PVP, quetiapine, risperidone, sertraline, norsertraline, tapentadol, temazepam, tramadol, N-desmethyltramadol, alphahydroxytriazolam, trazodone, trazodone metabolite (mCPP), venlafaxine, zaleplon, ziprasidone, zolpidem.",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "see individual tests"
+    },
+    {
+        "Tests and Panels": "Cotinine",
+        "Testing Includes": "cotinine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Cyclobenzaprine",
+        "Testing Includes": "cyclobenzaprine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Desipramine",
+        "Testing Includes": "desipramine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Dextromethorphan",
+        "Testing Includes": "dextromethorphan, dextrorphan/levorphanol",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Diazepam",
+        "Testing Includes": "diazepam, diazepam, nor",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Doxepin",
+        "Testing Includes": "doxepin, doxepin, nor",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Duloxetine",
+        "Testing Includes": "duloxetine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Ephedrines",
+        "Testing Includes": "pseudoephedrine, ephedrine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Ethanol metabolite screen",
+        "Testing Includes": "Ethylglucuronide (ETG) ",
+        "Specimen": "Urine",
+        "Method": "Immunoassay",
+        "Detection Limit   ng/mL ": "500"
+    },
+    {
+        "Tests and Panels": "Ethanol metabolites ",
+        "Testing Includes": "Ethylglucuronide (ETG), Ethylsulfate (ETS)",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "ETG 500           ETS 250"
+    },
+    {
+        "Tests and Panels": "Ethylone",
+        "Testing Includes": "ethylone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Fentanyl",
+        "Testing Includes": "fentanyl, norfentanyl, \u03b2 OH-fentanyl, 4-ANPP",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl analogs",
+        "Testing Includes": "acetylfentanyl, acrylfentanyl, butyrl/isobutyrlfentanyl, carfentanyl, furanylfentanyl, methoxyacetylfentanyl, 3- methylfentanyl, 4-ANPP, fluorobutyr/fluoroisobutyrfentanlyl, betahydroxyfentanyl",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "5"
+    },
+    {
+        "Tests and Panels": "Fentanyl Precursor (4-ANPP)",
+        "Testing Includes": "4-ANPP",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, 3-methyl",
+        "Testing Includes": "fentanyl, 3-methyl",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, acetyl",
+        "Testing Includes": "fentanyl, acetyl",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, acrylfentanyl",
+        "Testing Includes": "fentanyl, acrylfentanyl",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, butyrl/isobutyrl",
+        "Testing Includes": "fentanyl, butyrl/isobutyrl",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, car",
+        "Testing Includes": "fentanyl, car",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, fluorobutyr/fluoroisobutyr",
+        "Testing Includes": "fentanyl, fluorobutyr/fluoroisobutyr",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, furanyl",
+        "Testing Includes": "fentanyl, furanyl",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, methoxyacetyl",
+        "Testing Includes": "fentanyl, methoxyacetyl",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fluoxetine",
+        "Testing Includes": "fluoxetine, fluoxetine, nor",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Fluphenazine",
+        "Testing Includes": "fluphenazine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Flurazepam",
+        "Testing Includes": "flurazepam, flurazepam, hydroxyethyl",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Fluvoxamine",
+        "Testing Includes": "fluvoxamine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Gabapentin",
+        "Testing Includes": "gabapentin",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "400"
+    },
+    {
+        "Tests and Panels": "Haloperidol",
+        "Testing Includes": "haloperidol",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Heroin metabolite",
+        "Testing Includes": "6-acetylmorphine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Hydrocodone",
+        "Testing Includes": "hydrocodone, norhydrocodone, dihydrocodeine, hydromorphone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Hydromorphone",
+        "Testing Includes": "hydromorphone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Iloperidone",
+        "Testing Includes": "iloperidone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Imipramine",
+        "Testing Includes": "imipramine, desipramine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Ketamine",
+        "Testing Includes": "ketamine, norketamine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Lorazepam",
+        "Testing Includes": "lorazepam",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Lurasidone",
+        "Testing Includes": "lurasidone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDA",
+        "Testing Includes": "MDA",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDEA",
+        "Testing Includes": "MDEA",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDMA",
+        "Testing Includes": "MDMA, MDA",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDPV",
+        "Testing Includes": "MDPV",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Meperidine",
+        "Testing Includes": "meperidine, normeperidine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Meperidine",
+        "Testing Includes": "meperidine, meperidine, nor",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Meprobamate",
+        "Testing Includes": "meprobamate",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Methadone",
+        "Testing Includes": "methadone, EDDP",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Methamphetamine",
+        "Testing Includes": "methamphetamine, amphetamine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Methylphenidate",
+        "Testing Includes": "methyphenidate, ritalinic acid",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Midazolam",
+        "Testing Includes": "midazolam",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Mirtazapine",
+        "Testing Includes": "mirtazapine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Mitragynine (Kratom)",
+        "Testing Includes": "mitragynine, 7-hydroxymitragynine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Morphine",
+        "Testing Includes": "morphine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Muscle Relaxant Panel",
+        "Testing Includes": "meprobamate, carisoprodol, cyclobenzaprine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Nalbuphine",
+        "Testing Includes": "nalbuphine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Naloxone",
+        "Testing Includes": "naloxone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "20"
+    },
+    {
+        "Tests and Panels": "Naltrexone",
+        "Testing Includes": "naltrexone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Nortriptyline",
+        "Testing Includes": "nortriptyline",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Novel Psychoactive Substances (NPS)",
+        "Testing Includes": "bromazolam, \u03b1 PVP, psilocin, flualprazolam, flunitrazepam, PiHP, MDPV, butylone",
+        "Specimen": "",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "10"
+    },
+    {
+        "Tests and Panels": "Olanzapine",
+        "Testing Includes": "olanzapine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Opiates",
+        "Testing Includes": "morphine, 6-acetylmorphine, codeine, hydrocodone, hydromorphone, dihydrocodeine, oxycodone, oxymorphone, noroxycodone, noroxymorphone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Oxazepam",
+        "Testing Includes": "oxazepam",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Oxycodone",
+        "Testing Includes": "oxycodone, oxycodone, nor, oxymorphone, oxymorphone, nor",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Oxymorphone",
+        "Testing Includes": "oxymorphone, oxymorphone, nor",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Pentazocine",
+        "Testing Includes": "pentazocine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Phencyclidine",
+        "Testing Includes": "phencyclidine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Phentermine",
+        "Testing Includes": "phentermine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Pregabalin",
+        "Testing Includes": "pregabalin",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "200"
+    },
+    {
+        "Tests and Panels": "Propoxyphene",
+        "Testing Includes": "propoxyphene, propoxyphene, nor",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Pseudoephedrine/ephedrine",
+        "Testing Includes": "pseudoephedrine/ephedrine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Quetiapine",
+        "Testing Includes": "quetiapine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Risperidone",
+        "Testing Includes": "risperidone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Ritalinic acid",
+        "Testing Includes": "ritalinic acid",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Sedatives",
+        "Testing Includes": "zolpidem, zaleplon",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Sertraline",
+        "Testing Includes": "sertraline, Sertraline, nor",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Tapentadol",
+        "Testing Includes": "tapentadol",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Temazepam",
+        "Testing Includes": "temazepam, oxazepam",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "THC metabolite",
+        "Testing Includes": "carboxyTHC",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "10"
+    },
+    {
+        "Tests and Panels": "TherapeuticTox panel",
+        "Testing Includes": "amitriptyline, aripiprazole, bupropion, hydroxybupropion, chlorpromazine, citalopram/escitalopram, clozapine, cotinine, clomipramine, cyclobenzaprine, desipramine, doxepin, nordoxepin, duloxetine, fluoxetine, norfluoxetine, fluvoxamine, haloperidol, imipramine, lurasidone, mirtazapine, nortrityline, olanzapine, paroxetine, quetiapine, risperidone, sertraline, norsertraline, trazodone, trazodone metabolite (mCPP), venlafaxine, ziprasidone.",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Thioridazine",
+        "Testing Includes": "thioridazine",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Tramadol",
+        "Testing Includes": "tramadol, N-desmethyltramadol",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "trazodone",
+        "Testing Includes": "trazodone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Triazolam",
+        "Testing Includes": "triazolam, triazolam, \u03b1-hydroxy",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Urine Validation Studies",
+        "Testing Includes": "creatinine, pH, specific gravity",
+        "Specimen": "Urine",
+        "Method": "Spectrometric Gravitometric  Electrode",
+        "Detection Limit   ng/mL ": "creatinine>20         SG1.001-1.0204          pH4.5-9.0"
+    },
+    {
+        "Tests and Panels": "Zaleplon",
+        "Testing Includes": "zaleplon",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Ziprasidone",
+        "Testing Includes": "ziprasidone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Zolpidem",
+        "Testing Includes": "zolpidem",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Zopiclone",
+        "Testing Includes": "zopiclone",
+        "Specimen": "Urine",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Oral Fluid Drug Testing",
+        "Testing Includes": "",
+        "Specimen": "",
+        "Method": "",
+        "Detection Limit   ng/mL ": ""
+    },
+    {
+        "Tests and Panels": "Tests and Panels",
+        "Testing Includes": "Testing Includes",
+        "Specimen": "Specimen",
+        "Method": "Method",
+        "Detection Limit   ng/mL ": "Detection Limit   ng/mL "
+    },
+    {
+        "Tests and Panels": "AddictionTox panel",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, amphetamine, benzoylecgonine, buprenorphine, norbuprenorphine, carisoprodol, clonazepam, 7-aminoclonazepam, cocaine, cocaethylene, codeine, dextromethorphan, dextrorphan/levorphanol, diazepam, ephedrine/pseudoephedrine,  fentanyl, norfentanyl, \u03b2 OH fentanyl, fentanyl precursor (4-ANPP), flurazepam, hydroxyethylflurazepam, gabapentin, hydrocodone, hydromorphone, ketamine, lorazepam, MDA, MDMA, meperidine, normeperidine, meprobamate, EDDP, methamphetamine, methyphenidate, ritalinic acid, midazolam, mitragynine, 7-hydroxymitragynine, morphine, 6-acetylmorphine, naloxone, natrexone, oxazepam, oxycodone, noroxycodone, oxymorphone, noroxymorphone, phencyclidine, phentermine, pregabalin, \u03b1 PVP, tapentadol, temazepam, tramadol, N-desmethyltramadol, alphahydroxytriazolam, zaleplon, zolpidem.",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "see individual tests"
+    },
+    {
+        "Tests and Panels": "Alprazolam",
+        "Testing Includes": "alprazolam, \u03b1-hydroxyalprazolam",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Amitriptyline",
+        "Testing Includes": "amitriptyline, nortiptyline",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Amoxapine",
+        "Testing Includes": "amoxapine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Amphetamines",
+        "Testing Includes": "amphetamine, methamphetamine, phentermine, pseudoephedrine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Antidepressants  2 ",
+        "Testing Includes": "amitryptyline, clomipramine, desipramine, doxepin, nordoxepin, imipramine, mirtazapine, nortriptyline",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Antidepressants 1 ",
+        "Testing Includes": "fluoxetine, norfluoxetine, sertraline, norsertraline, paroxetine, duloxetine, citalopram/escitalopram, fluvoxamine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Antidepressants 3",
+        "Testing Includes": "bupropion, hydroxybupropion, trazodone, trazodone metabolite (mCPP), venlafaxine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Antipsychotics",
+        "Testing Includes": "aripiprazole, chlorpromazine, clozapine, haloperidol, lurasidone, olanzapine, quetiapine, risperidone, ziprasidone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "BasicTox panel",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, amphetamine, benzoylecgonine, clonazepam, 7-aminoclonazepam, cocaine, cocaethylene, codeine, diazepam, ephedrine/pseudoephedrine, flurazepam, hydroxyethylflurazepam, hydrocodone, hydromorphone, lorazepam, EDDP, methamphetamine, midazolam, morphine, 6-acetylmorphine, oxazepam, oxycodone, noroxycodone, oxymorphone, noroxymorphone, phencyclidine, phentermine, temazepam, alphahydroxytriazolam.",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "see individual tests"
+    },
+    {
+        "Tests and Panels": "Benzodiazepines",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, clonazepam, 7-aminoclonazepam, diazepam, flurazepam, hydroxyethylflurazepam, lorazepam, midazolam, nordiazepam, oxazepam, temazepam, alphahydroxytriazolam",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Buprenorphine",
+        "Testing Includes": "buprenorphine, norbuprenorphine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Bupropion",
+        "Testing Includes": "bupropion, hydroxybupropion",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Butorphanol",
+        "Testing Includes": "butorphanol",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Cannabidiol",
+        "Testing Includes": "cannabidiol (CBD)",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "10"
+    },
+    {
+        "Tests and Panels": "Cannabinoids",
+        "Testing Includes": "tetrahydrocannabinol (THC), carboxy-tretahydricannabinol (cTHC), cannabidiol (CBD)",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "10"
+    },
+    {
+        "Tests and Panels": "Carisoprodol",
+        "Testing Includes": "carisoprodol, meprobamate",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Citalopram",
+        "Testing Includes": "citalopram/escitalopram",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Clomipramine",
+        "Testing Includes": "clomipramine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Clonazepam",
+        "Testing Includes": "clonazepam, clonazepam, 7-amino",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Clozapine",
+        "Testing Includes": "clozapine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Cocaine",
+        "Testing Includes": "cocaine, cocaethylene, benzoylecgonine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Codeine",
+        "Testing Includes": "codeine, morphine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "20"
+    },
+    {
+        "Tests and Panels": "ComprehensiveTox panel",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, amitriptyline, amphetamine, aripiprazole, benzoylecgonine, bromazolam, buprenorphine, norbuprenorphine, bupropion, hydroxybupropion, carisoprodol, chlorpromazine, citalopram/escitalopram, clomipramine, clonazepam, 7-aminoclonazepam, clozapine, cocaine, cocaethylene, codeine, cotinine, cyclobenzaprene, desipramine, dextromethorphan, dextrorphan/levorphanol, diazepam, doxepin, nordoxepin, duloxetine, ephedrine/pseudoephedrine,  fentanyl, norfentanyl, \u03b2 OH fentanyl, fentanyl precursor (4-ANPP), fluoxetine, norfuoxetine, flurazepam, hydroxyethylflurazepam, fluvoxamine, gabapentin, haloperidol, hydrocodone, hydromorphone, imipramine, ketamine, lorazepam, lurasidone, MDA, MDMA, meperidine, normeperidine, meprobamate, EDDP, methamphetamine, methyphenidate, ritalinic acid, midazolam, mirtazapine,  mitragynine, 7-hydroxymitragynine, morphine, 6-acetylmorphine, naloxone, natrexone, nortiptyline, olanzapine, oxazepam, oxycodone, noroxycodone, oxymorphone, noroxymorphone, paroxetine, phencyclidine, phentermine, pregabalin, \u03b1 PVP, quetiapine, risperidone, sertraline, norsertraline, tapentadol, temazepam, tramadol, N-desmethyltramadol, alphahydroxytriazolam, trazodone, trazodone metabolite (mCPP), venlafaxine, zaleplon, ziprasidone, zolpidem.",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "see individual tests"
+    },
+    {
+        "Tests and Panels": "Cotinine",
+        "Testing Includes": "cotinine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Cyclobenzaprine",
+        "Testing Includes": "cyclobenzaprine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Desipramine",
+        "Testing Includes": "desipramine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Dextromethorphan",
+        "Testing Includes": "dextromethorphan, dextrorphan/levorphanol",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Diazepam",
+        "Testing Includes": "diazepam, diazepam, nor",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Doxepin",
+        "Testing Includes": "doxepin, doxepin, nor",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Duloxetine",
+        "Testing Includes": "duloxetine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Ephedrines",
+        "Testing Includes": "pseudoephedrine, ephedrine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Ethylone",
+        "Testing Includes": "ethylone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Fentanyl",
+        "Testing Includes": "fentanyl, norfentanyl, \u03b2 OH-fentanyl, 4-ANPP",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl analogs",
+        "Testing Includes": "acetylfentanyl, acrylfentanyl, butyrl/isobutyrlfentanyl, carfentanyl, furanylfentanyl, methoxyacetylfentanyl, 3- methylfentanyl, 4-ANPP, fluorobutyr/fluoroisobutyrfentanlyl, betahydroxyfentanyl",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "5"
+    },
+    {
+        "Tests and Panels": "Fentanyl Precursor (4-ANPP)",
+        "Testing Includes": "4-ANPP",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, 3-methyl",
+        "Testing Includes": "fentanyl, 3-methyl",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, acetyl",
+        "Testing Includes": "fentanyl, acetyl",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, acrylfentanyl",
+        "Testing Includes": "fentanyl, acrylfentanyl",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, butyrl/isobutyrl",
+        "Testing Includes": "fentanyl, butyrl/isobutyrl",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, car",
+        "Testing Includes": "fentanyl, car",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, fluorobutyr/fluoroisobutyr",
+        "Testing Includes": "fentanyl, fluorobutyr/fluoroisobutyr",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, furanyl",
+        "Testing Includes": "fentanyl, furanyl",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fentanyl, methoxyacetyl",
+        "Testing Includes": "fentanyl, methoxyacetyl",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fluoxetine",
+        "Testing Includes": "fluoxetine, fluoxetine, nor",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Fluphenazine",
+        "Testing Includes": "fluphenazine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Flurazepam",
+        "Testing Includes": "flurazepam, flurazepam, hydroxyethyl",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Fluvoxamine",
+        "Testing Includes": "fluvoxamine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Gabapentin",
+        "Testing Includes": "gabapentin",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "400"
+    },
+    {
+        "Tests and Panels": "Haloperidol",
+        "Testing Includes": "haloperidol",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Heroin metabolite",
+        "Testing Includes": "6-acetylmorphine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Hydrocodone",
+        "Testing Includes": "hydrocodone, norhydrocodone, dihydrocodeine, hydromorphone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Hydromorphone",
+        "Testing Includes": "hydromorphone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Iloperidone",
+        "Testing Includes": "iloperidone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Imipramine",
+        "Testing Includes": "imipramine, desipramine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Ketamine",
+        "Testing Includes": "ketamine, norketamine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Lorazepam",
+        "Testing Includes": "lorazepam",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Lurasidone",
+        "Testing Includes": "lurasidone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDA",
+        "Testing Includes": "MDA",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDEA",
+        "Testing Includes": "MDEA",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDMA",
+        "Testing Includes": "MDMA, MDA",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDPV",
+        "Testing Includes": "MDPV",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Meperidine",
+        "Testing Includes": "meperidine, normeperidine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Meprobamate",
+        "Testing Includes": "meprobamate",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Methadone",
+        "Testing Includes": "methadone, EDDP",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Methamphetamine",
+        "Testing Includes": "methamphetamine, amphetamine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Methylphenidate",
+        "Testing Includes": "methyphenidate, ritalinic acid",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Midazolam",
+        "Testing Includes": "midazolam",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Mirtazapine",
+        "Testing Includes": "mirtazapine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Mitragynine (Kratom)",
+        "Testing Includes": "mitragynine, 7-hydroxymitragynine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Morphine",
+        "Testing Includes": "morphine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Muscle Relaxant Panel",
+        "Testing Includes": "meprobamate, carisoprodol, cyclobenzaprine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Nalbuphine",
+        "Testing Includes": "nalbuphine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Naloxone",
+        "Testing Includes": "naloxone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "20"
+    },
+    {
+        "Tests and Panels": "Naltrexone",
+        "Testing Includes": "naltrexone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Nortriptyline",
+        "Testing Includes": "nortriptyline",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Novel Psychoactive Substances (NPS)",
+        "Testing Includes": "bromazolam, \u03b1 PVP, psilocin, flualprazolam, flunitrazepam, PiHP, MDPV, butylone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "10"
+    },
+    {
+        "Tests and Panels": "Olanzapine",
+        "Testing Includes": "olanzapine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Opiates",
+        "Testing Includes": "morphine, 6-acetylmorphine, codeine, hydrocodone, hydromorphone, dihydrocodeine, oxycodone, oxymorphone, noroxycodone, noroxymorphone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Oxazepam",
+        "Testing Includes": "oxazepam",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Oxycodone",
+        "Testing Includes": "oxycodone, oxycodone, nor, oxymorphone, oxymorphone, nor",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Oxymorphone",
+        "Testing Includes": "oxymorphone, oxymorphone, nor",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Pentazocine",
+        "Testing Includes": "pentazocine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Phencyclidine",
+        "Testing Includes": "phencyclidine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Phentermine",
+        "Testing Includes": "phentermine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Pregabalin",
+        "Testing Includes": "pregabalin",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "200"
+    },
+    {
+        "Tests and Panels": "Propoxyphene",
+        "Testing Includes": "propoxyphene, norpropoxyphene",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Pseudoephedrine/ephedrine",
+        "Testing Includes": "pseudoephedrine/ephedrine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Quetiapine",
+        "Testing Includes": "quetiapine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Risperidone",
+        "Testing Includes": "risperidone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Ritalinic acid",
+        "Testing Includes": "ritalinic acid",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Sedatives",
+        "Testing Includes": "zolpidem, zaleplon",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Sertraline",
+        "Testing Includes": "sertraline, Sertraline, nor",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Tapentadol",
+        "Testing Includes": "tapentadol",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Temazepam",
+        "Testing Includes": "temazepam, oxazepam",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "THC metabolite",
+        "Testing Includes": "carboxyTHC",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "10"
+    },
+    {
+        "Tests and Panels": "TherapeuticTox panel",
+        "Testing Includes": "amitriptyline, aripiprazole, bupropion, hydroxybupropion, chlorpromazine, citalopram/escitalopram, clozapine, cotinine, clomipramine, cyclobenzaprine, desipramine, doxepin, nordoxepin, duloxetine, fluoxetine, norfluoxetine, fluvoxamine, haloperidol, imipramine, lurasidone, mirtazapine, nortrityline, olanzapine, paroxetine, quetiapine, risperidone, sertraline, norsertraline, trazodone, trazodone metabolite (mCPP), venlafaxine, ziprasidone.",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Thioridazine",
+        "Testing Includes": "thioridazine",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Tramadol",
+        "Testing Includes": "tramadol, N-desmethyltramadol",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Tramadol",
+        "Testing Includes": "tramadol, tramadol, n-desmethyl",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "trazodone",
+        "Testing Includes": "trazodone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Triazolam",
+        "Testing Includes": "triazolam, triazolam, \u03b1-hydroxy",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Zaleplon",
+        "Testing Includes": "zaleplon",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Ziprasidone",
+        "Testing Includes": "ziprasidone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Zolpidem",
+        "Testing Includes": "zolpidem",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Zopiclone",
+        "Testing Includes": "zopiclone",
+        "Specimen": "Oral Fluid",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Hair Drug Testing",
+        "Testing Includes": "",
+        "Specimen": "",
+        "Method": "",
+        "Detection Limit   ng/mL ": ""
+    },
+    {
+        "Tests and Panels": "Tests and Panels",
+        "Testing Includes": "Testing Includes",
+        "Specimen": "Specimen",
+        "Method": "Method",
+        "Detection Limit   ng/mL ": "Detection Limit   pg/mg of hair "
+    },
+    {
+        "Tests and Panels": "AddictionTox panel",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, amphetamine, benzoylecgonine, buprenorphine, norbuprenorphine, carisoprodol, clonazepam, 7-aminoclonazepam, cocaine, cocaethylene, codeine, dextromethorphan, dextrorphan/levorphanol, diazepam, ephedrine/pseudoephedrine,  fentanyl, norfentanyl, \u03b2 OH fentanyl, fentanyl precursor (4-ANPP), flurazepam, hydroxyethylflurazepam, gabapentin, hydrocodone, hydromorphone, ketamine, lorazepam, MDA, MDMA, meperidine, normeperidine, meprobamate, EDDP, methamphetamine, methyphenidate, ritalinic acid, midazolam, mitragynine, 7-hydroxymitragynine, morphine, 6-acetylmorphine, naloxone, natrexone, oxazepam, oxycodone, noroxycodone, oxymorphone, noroxymorphone, phencyclidine, phentermine, pregabalin, \u03b1 PVP, tapentadol, temazepam, tramadol, N-desmethyltramadol, alphahydroxytriazolam, zaleplon, zolpidem.",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "see individual tests"
+    },
+    {
+        "Tests and Panels": "Alprazolam",
+        "Testing Includes": "alprazolam, \u03b1-hydroxyalprazolam",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Amitriptyline",
+        "Testing Includes": "amitriptyline, nortiptyline",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Amoxapine",
+        "Testing Includes": "amoxapine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Amphetamines",
+        "Testing Includes": "amphetamine, methamphetamine, phentermine, pseudoephedrine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Antidepressants  2 ",
+        "Testing Includes": "amitryptyline, clomipramine, desipramine, doxepin, nordoxepin, imipramine, mirtazapine, nortriptyline",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Antidepressants 1 ",
+        "Testing Includes": "fluoxetine, norfluoxetine, sertraline, norsertraline, paroxetine, duloxetine, citalopram/escitalopram, fluvoxamine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Antidepressants 3",
+        "Testing Includes": "bupropion, hydroxybupropion, trazodone, trazodone metabolite (mCPP), venlafaxine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Antipsychotics",
+        "Testing Includes": "aripiprazole, chlorpromazine, clozapine, haloperidol, lurasidone, olanzapine, quetiapine, risperidone, ziprasidone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "BasicTox panel",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, amphetamine, benzoylecgonine, clonazepam, 7-aminoclonazepam, cocaine, cocaethylene, norcocaine, codeine, diazepam, ephedrine/pseudoephedrine, flurazepam, hydroxyethylflurazepam, hydrocodone, hydromorphone, lorazepam, EDDP, methamphetamine, midazolam, morphine, 6-acetylmorphine, oxazepam, oxycodone, noroxycodone, oxymorphone, noroxymorphone, phencyclidine, phentermine, temazepam, alphahydroxytriazolam.",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "see individual tests"
+    },
+    {
+        "Tests and Panels": "Benzodiazepines",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, clonazepam, 7-aminoclonazepam, diazepam, flurazepam, hydroxyethylflurazepam, lorazepam, midazolam, nordiazepam, oxazepam, temazepam, alphahydroxytriazolam",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Buprenorphine",
+        "Testing Includes": "buprenorphine, norbuprenorphine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Buprenorphine",
+        "Testing Includes": "buprenorphine, buprenorphine, nor",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Bupropion",
+        "Testing Includes": "bupropion, hydroxybupropion",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Butorphanol",
+        "Testing Includes": "butorphanol",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Carisoprodol",
+        "Testing Includes": "carisoprodol, meprobamate",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Chlorpromazine",
+        "Testing Includes": "chlorpromazine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Citalopram",
+        "Testing Includes": "citalopram/escitalopram",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Clomipramine",
+        "Testing Includes": "clomipramine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Clonazepam",
+        "Testing Includes": "clonazepam, clonazepam, 7-amino",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Clozapine",
+        "Testing Includes": "clozapine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Cocaine",
+        "Testing Includes": "cocaine, cocaethylene, benzoylecgonine, norcocaine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Codeine",
+        "Testing Includes": "codeine, morphine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "20"
+    },
+    {
+        "Tests and Panels": "ComprehensiveTox panel",
+        "Testing Includes": "alprazolam, alpha-hydroxyalprazolam, amitriptyline, amphetamine, aripiprazole, benzoylecgonine, bromazolam, buprenorphine, norbuprenorphine, bupropion, hydroxybupropion, carisoprodol, chlorpromazine, citalopram/escitalopram, clomipramine, clonazepam, 7-aminoclonazepam, clozapine, cocaine, cocaethylene, codeine, cotinine, cyclobenzaprene, desipramine, dextromethorphan, dextrorphan/levorphanol, diazepam, doxepin, nordoxepin, duloxetine, ephedrine/pseudoephedrine,  fentanyl, norfentanyl, \u03b2 OH fentanyl, fentanyl precursor (4-ANPP), fluoxetine, norfuoxetine, flurazepam, hydroxyethylflurazepam, fluvoxamine, gabapentin, haloperidol, hydrocodone, hydromorphone, imipramine, ketamine, lorazepam, lurasidone, MDA, MDMA, meperidine, normeperidine, meprobamate, EDDP, methamphetamine, methyphenidate, ritalinic acid, midazolam, mirtazapine,  mitragynine, 7-hydroxymitragynine, morphine, 6-acetylmorphine, naloxone, natrexone, nortiptyline, olanzapine, oxazepam, oxycodone, noroxycodone, oxymorphone, noroxymorphone, paroxetine, phencyclidine, phentermine, pregabalin, \u03b1 PVP, quetiapine, risperidone, sertraline, norsertraline, tapentadol, temazepam, tramadol, N-desmethyltramadol, alphahydroxytriazolam, trazodone, trazodone metabolite (mCPP), venlafaxine, zaleplon, ziprasidone, zolpidem.",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "see individual tests"
+    },
+    {
+        "Tests and Panels": "Cotinine",
+        "Testing Includes": "cotinine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Cyclobenzaprine",
+        "Testing Includes": "cyclobenzaprine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Desipramine",
+        "Testing Includes": "desipramine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Dextromethorphan",
+        "Testing Includes": "dextromethorphan, dextrorphan/levorphanol",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Dextrometorphan",
+        "Testing Includes": "dextromethorphan, dextrorphan/levorphanol",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Diazepam",
+        "Testing Includes": "diazepam, diazepam, nor",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Doxepin",
+        "Testing Includes": "doxepin, doxepin, nor",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Duloxetine",
+        "Testing Includes": "duloxetine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Ephedrines",
+        "Testing Includes": "pseudoephedrine, ephedrine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Ethylone",
+        "Testing Includes": "ethylone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Fentanyl",
+        "Testing Includes": "fentanyl, norfentanyl, \u03b2 OH-fentanyl, 4-ANPP",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "1"
+    },
+    {
+        "Tests and Panels": "Fluoxetine",
+        "Testing Includes": "fluoxetine, fluoxetine, nor",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Fluphenazine",
+        "Testing Includes": "fluphenazine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Flurazepam",
+        "Testing Includes": "flurazepam, flurazepam, hydroxyethyl",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Fluvoxamine",
+        "Testing Includes": "fluvoxamine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Gabapentin",
+        "Testing Includes": "gabapentin",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "400"
+    },
+    {
+        "Tests and Panels": "Haloperidol",
+        "Testing Includes": "haloperidol",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Heroin metabolite",
+        "Testing Includes": "6-acetylmorphine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Hydrocodone",
+        "Testing Includes": "hydrocodone, norhydrocodone, dihydrocodeine, hydromorphone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Hydromorphone",
+        "Testing Includes": "hydromorphone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Iloperidone",
+        "Testing Includes": "iloperidone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Imipramine",
+        "Testing Includes": "imipramine, desipramine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Ketamine",
+        "Testing Includes": "ketamine, norketamine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Lorazepam",
+        "Testing Includes": "lorazepam",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Lurasidone",
+        "Testing Includes": "lurasidone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDA",
+        "Testing Includes": "MDA",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDEA",
+        "Testing Includes": "MDEA",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDMA",
+        "Testing Includes": "MDMA, MDA",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "MDPV",
+        "Testing Includes": "MDPV",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Meperidine",
+        "Testing Includes": "meperidine, normeperidine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Meprobamate",
+        "Testing Includes": "meprobamate",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Methadone",
+        "Testing Includes": "methadone, EDDP",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Methamphetamine",
+        "Testing Includes": "methamphetamine, amphetamine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Methylphenidate",
+        "Testing Includes": "methyphenidate, ritalinic acid",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Midazolam",
+        "Testing Includes": "midazolam",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Mirtazapine",
+        "Testing Includes": "mirtazapine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Mitragynine (Kratom)",
+        "Testing Includes": "mitragynine, 7-hydroxymitragynine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Morphine",
+        "Testing Includes": "morphine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Muscle Relaxant Panel",
+        "Testing Includes": "meprobamate, carisoprodol, cyclobenzaprine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Nalbuphine",
+        "Testing Includes": "nalbuphine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Naloxone",
+        "Testing Includes": "naloxone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "20"
+    },
+    {
+        "Tests and Panels": "Naltrexone",
+        "Testing Includes": "naltrexone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Nortriptyline",
+        "Testing Includes": "nortriptyline",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Novel Psychoactive Substances (NPS)",
+        "Testing Includes": "bromazolam, \u03b1 PVP, psilocin, flualprazolam, flunitrazepam, PiHP, MDPV, butylone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "10"
+    },
+    {
+        "Tests and Panels": "Olanzapine",
+        "Testing Includes": "olanzapine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Opiates",
+        "Testing Includes": "morphine, 6-acetylmorphine, codeine, hydrocodone, hydromorphone, dihydrocodeine, oxycodone, oxymorphone, noroxycodone, noroxymorphone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Oxazepam",
+        "Testing Includes": "oxazepam",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Oxycodone",
+        "Testing Includes": "oxycodone, oxycodone, nor, oxymorphone, oxymorphone, nor",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Oxymorphone",
+        "Testing Includes": "oxymorphone, oxymorphone, nor",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Pentazocine",
+        "Testing Includes": "pentazocine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Phencyclidine",
+        "Testing Includes": "phencyclidine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "4"
+    },
+    {
+        "Tests and Panels": "Phentermine",
+        "Testing Includes": "phentermine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Pregabalin",
+        "Testing Includes": "pregabalin",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "200"
+    },
+    {
+        "Tests and Panels": "Propoxyphene",
+        "Testing Includes": "propoxyphene, norpropoxyphene",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Propoxyphene",
+        "Testing Includes": "propoxyphene, propoxyphene, nor",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Pseudoephedrine/ephedrine",
+        "Testing Includes": "pseudoephedrine/ephedrine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Quetiapine",
+        "Testing Includes": "quetiapine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Risperidone",
+        "Testing Includes": "risperidone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Ritalinic acid",
+        "Testing Includes": "ritalinic acid",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Sedatives",
+        "Testing Includes": "zolpidem, zaleplon",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Sertraline",
+        "Testing Includes": "sertraline, Sertraline, nor",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Tapentadol",
+        "Testing Includes": "tapentadol",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Temazepam",
+        "Testing Includes": "temazepam, oxazepam",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "TherapeuticTox panel",
+        "Testing Includes": "amitriptyline, aripiprazole, bupropion, hydroxybupropion, chlorpromazine, citalopram/escitalopram, clozapine, cotinine, clomipramine, cyclobenzaprine, desipramine, doxepin, nordoxepin, duloxetine, fluoxetine, norfluoxetine, fluvoxamine, haloperidol, imipramine, lurasidone, mirtazapine, nortrityline, olanzapine, paroxetine, quetiapine, risperidone, sertraline, norsertraline, trazodone, trazodone metabolite (mCPP), venlafaxine, ziprasidone.",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Thioridazine",
+        "Testing Includes": "thioridazine",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Tramadol",
+        "Testing Includes": "tramadol, N-desmethyltramadol",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "trazodone",
+        "Testing Includes": "trazodone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Triazolam",
+        "Testing Includes": "triazolam, triazolam, \u03b1-hydroxy",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Zaleplon",
+        "Testing Includes": "zaleplon",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Ziprasidone",
+        "Testing Includes": "ziprasidone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "100"
+    },
+    {
+        "Tests and Panels": "Zolpidem",
+        "Testing Includes": "zolpidem",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    },
+    {
+        "Tests and Panels": "Zopiclone",
+        "Testing Includes": "zopiclone",
+        "Specimen": "Hair",
+        "Method": "LC-MS/MS",
+        "Detection Limit   ng/mL ": "40"
+    }
+]

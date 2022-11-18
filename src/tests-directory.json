@@ -1,0 +1,2510 @@
+[
+  {
+    "testName": "Urine",
+    "analytesTestsed": "_",
+    "matrix": "_",
+    "detectionLimit": "_"
+  },
+  {
+    "testName": "Drugs of Abuse Panel (AddictionTox)",
+    "analytesTestsed": "alprazolam, alpha-hydroxyalprazolam,  amphetamine,                     benzoylecgonine, buprenorphine*,  norbuprenorphine*,                     carisoprodol, clonazepam,  7-aminoclonazepam, cocaine,                     codeine,  dextromethorphan, dextrorphan/levorphanol,                      diazepam, ephedrine/pseudoephedrine,  ethylone*,                     fentanyl*, norfentanyl*,                                                            β                                                           OH  fentanyl*, fentanyl precursor (4-ANPP)*,                      flurazepam, hydroxyethylflurazepam,                                                                                               gabapentin***, hydrocodone, hydromorphone,  ketamine,                     lorazepam, MDA, MDEA, MDMA,  MDPV*, meperidine,                     normeperidine,                                                                                               meprobamate, EDDP, methamphetamine,  methyphenidate,                     ritalinic acid, midazolam,  mitragynine*,                     7-hydroxymitragynine*, morphine,  6-acetylmorphine*,                     naloxone, natrexone,  oxazepam, oxycodone,                     noroxycodone,  oxymorphone, noroxymorphone,                     phencyclidine*,  phentermine, pregabalin**,                                                            α                                                           PVP*, tapentadol,  temazepam, tramadol,                     N-desmethyltramadol,  triazolam, zaleplon, zolpidem.",
+    "matrix": "Urine",
+    "detectionLimit": "40                                                                                               4*                                                                                               200**                                                                                               400***"
+  },
+  {
+    "testName": "Therapeutics Panel                                                                                               (PsychiatricTox)",
+    "analytesTestsed": "amytriptyline, amoxapine, aripiprazole,  bupropion,                     chlorpromazine, citalopram,  clozapine, cotinine,                     clomipramine,                                                                                               cyclobenzaprine, desipramine, dihydrocodeine,  doxepin,                     nordoxepin, duloxetine, fluoxetine,  norfluoxetine,                     fluphenazine, fluvoxamine,  haloperidol, iloperidol,                     imipramine, lurasidone,  mirtazapine, nortrityline,                     olanzapine,                                                                                               propoxyphene, norpropoxyphene, quetiapine,                      risperidone, sertraline, norsertraline, thioridazine,                      trazodone, trazodone metabolite (mCPP),                      venlafaxine, ziprasidone.",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Amphetamine Panel",
+    "analytesTestsed": "amphetamine, methamphetamine, MDMA,  MDA, MDEA,                     phentermine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Antidepressants 1 Panel (Serotonergic)",
+    "analytesTestsed": "fluoxetine, norfluoxetine, sertraline,  norsertraline,                     duloxetine, citalopram,  fluvoxamine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Antidepressants 2 Panel (Tricyclic  and other Cyclics)",
+    "analytesTestsed": "amitryptyline, amoxapine, clomipramine,  desipramine,                     doxepin, nordoxepin,  imipramine, mirtazapine,                     nortriptyline",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Antidepressants 3 Panel                                                                                               (Others)",
+    "analytesTestsed": "bupropion, trazodone, trazodone metabolite  (mCPP),                     venlafaxine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Antipsychotics Panel",
+    "analytesTestsed": "aripiprazole, chlorpromazine, clozapine,  fluphenazine,                     haloperidol, lurasidone,  olanzapine, quetiapine,                     risperidone,  thioridazine, ziprasidone",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Bath Salts Panel (Cathinones)",
+    "analytesTestsed": "ethylone, MDPV, alpha-PVP,",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Benzodiazepine Panel",
+    "analytesTestsed": "alprazolam, alpha-hydroxyalprazolam,  clonazepam,                     7-aminoclonazepam, diazepam,  flurazepam,                     hydroxyethylflurazepam,  lorazepam, midazolam,                     nordiazepam,  oxazepam, temazepam, triazolam",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Buprenorphine Panel",
+    "analytesTestsed": "buprenorphine, norbuprenorphine",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Cannabinoid Panel",
+    "analytesTestsed": "THC metabolite (carboxyTHC), canabidiol",
+    "matrix": "Urine",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Cocaine Panel",
+    "analytesTestsed": "cocaine, benzoylecgonine",
+    "matrix": "Urine",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Dextrometorphan Panel",
+    "analytesTestsed": "dextromethorphan,                                                                                               dextrorphan/levorphanol",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Ephedrine Panel",
+    "analytesTestsed": "pseudoephedrine, ephedrine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Ethanol Marker Panel",
+    "analytesTestsed": "Ethylglucuronide (ETG), Ethylsulfate (ETS)",
+    "matrix": "Urine",
+    "detectionLimit": "500/250"
+  },
+  {
+    "testName": "Fentanyl Panel",
+    "analytesTestsed": "fentanyl, norfentanyl,                                                            β                                                           OH-fentanyl",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl Analogs Panel",
+    "analytesTestsed": "4-ANPP, acetylfentanyl, acrylfentanyl,                      butyrl/isobutyrlfentanyl, carfentanyl,                      furanylfentanyl, methoxyacetylfentanyl, 3-                     methylfentanyl, 4-ANPP,                                                                                               fluorobutyr/fluoroisobutyrfentanlyl,                      betahydroxyfentanyl",
+    "matrix": "Urine",
+    "detectionLimit": "5"
+  },
+  {
+    "testName": "Gabapentinoids Panel",
+    "analytesTestsed": "gabapentin, pregabalin",
+    "matrix": "Urine",
+    "detectionLimit": "400/200"
+  },
+  {
+    "testName": "Ketamine Panel",
+    "analytesTestsed": "ketamine, norketamine",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Meperidine Panel",
+    "analytesTestsed": "meperidine, normeperidine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Methadone Panel",
+    "analytesTestsed": "methadone, EDDP",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Methylphenidate Panel",
+    "analytesTestsed": "methyphenidate, ritalinic acid",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Mitragynine Panel                                                                                               (Kraton)",
+    "analytesTestsed": "mitragynine, 7-hydroxymitragynine",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Muscle Relaxant Panel",
+    "analytesTestsed": "meprobamate, carisoprodol, cyclobenzaprine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Opiates Panel",
+    "analytesTestsed": "morphine, 6-acetylmorphine, codeine,  hydrocodone,                     hydromorphone,                                                                                               dihydrocodeine, oxycodone, oxymorphone,  noroxycodone,                     noroxymorphone",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Sedative Panel",
+    "analytesTestsed": "zolpidem, zaleplon",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Propoxyphene Panel",
+    "analytesTestsed": "propoxyphene, norpropoxyphene",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Tramadol Panel",
+    "analytesTestsed": "tramadol, N-desmethyltramadol",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Validation Studies",
+    "analytesTestsed": "creatinine pH specific gravity",
+    "matrix": "Urine",
+    "detectionLimit": ">20                                                                                               4.9-9.0                                                                                               1.001-1.020"
+  },
+  {
+    "testName": "Urine",
+    "analytesTestsed": "_",
+    "matrix": "_",
+    "detectionLimit": "_"
+  },
+  {
+    "testName": "Alprazolam",
+    "analytesTestsed": "alprazolam",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Alprazolam,α-hydroxy",
+    "analytesTestsed": "alprazolam,α-hydroxy",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Amitriptyline",
+    "analytesTestsed": "amitriptyline",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Amoxapine",
+    "analytesTestsed": "amoxapine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Buprenorphine",
+    "analytesTestsed": "buprenorphine",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Buprenorphine, nor",
+    "analytesTestsed": "buprenorphine, nor",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Bupropion",
+    "analytesTestsed": "bupropion",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Butorphanol",
+    "analytesTestsed": "butorphanol",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Cannabinoid Screen",
+    "analytesTestsed": "cannabinoids",
+    "matrix": "Urine",
+    "detectionLimit": "50"
+  },
+  {
+    "testName": "Cannabidiol",
+    "analytesTestsed": "cannabidiol",
+    "matrix": "Urine",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Carisoprodol",
+    "analytesTestsed": "carisoprodol",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Chlorpromazine",
+    "analytesTestsed": "chlorpromazine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Citalopram",
+    "analytesTestsed": "citalopram",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Clomipramine",
+    "analytesTestsed": "clomipramine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Clonazepam",
+    "analytesTestsed": "clonazepam",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Clonazepam, 7-amino",
+    "analytesTestsed": "clonazepam, 7-amino",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Clozapine",
+    "analytesTestsed": "clozapine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Cocaethylene",
+    "analytesTestsed": "cocaethylene",
+    "matrix": "Urine",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Cocaine",
+    "analytesTestsed": "cocaine",
+    "matrix": "Urine",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Cocaine metabolite BZE",
+    "analytesTestsed": "cocaine metabolite BZE",
+    "matrix": "Urine",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Cocaine, nor",
+    "analytesTestsed": "cocaine, nor",
+    "matrix": "Urine",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Codeine",
+    "analytesTestsed": "codeine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Cotinine",
+    "analytesTestsed": "cotinine",
+    "matrix": "Urine",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Creatinine",
+    "analytesTestsed": "creatinine",
+    "matrix": "Urine",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Cyclobenzaprine",
+    "analytesTestsed": "cyclobenzaprine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Desipramine",
+    "analytesTestsed": "desipramine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Dextromethorphan",
+    "analytesTestsed": "dextromethorphan",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Dextrorphan",
+    "analytesTestsed": "dextrorphan",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Diazepam",
+    "analytesTestsed": "diazepam",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Diazepam, nor",
+    "analytesTestsed": "diazepam, nor",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "dihydrocodeine",
+    "analytesTestsed": "dihydrocodeine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Doxepin",
+    "analytesTestsed": "doxepin",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Doxepin, nor",
+    "analytesTestsed": "doxepin, nor",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Duloxetine",
+    "analytesTestsed": "duloxetine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "EDDP",
+    "analytesTestsed": "EDDP",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Ethylgluguronide (ETG)",
+    "analytesTestsed": "Ethylglucuronide (ETG)",
+    "matrix": "Urine",
+    "detectionLimit": "500"
+  },
+  {
+    "testName": "Ethanol metabolite screen",
+    "analytesTestsed": "Ethylglucuronide (ETG) screen",
+    "matrix": "Urine",
+    "detectionLimit": "500"
+  },
+  {
+    "testName": "Ethylsulfate (ETS)",
+    "analytesTestsed": "Ethylsulfate (ETS)",
+    "matrix": "Urine",
+    "detectionLimit": "250"
+  },
+  {
+    "testName": "Ethylone",
+    "analytesTestsed": "ethylone",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Fentanyl",
+    "analytesTestsed": "fentanyl",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl Precursor (4-ANPP)",
+    "analytesTestsed": "4-ANPP",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, nor",
+    "analytesTestsed": "fentanyl, nor",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, αHydroxy",
+    "analytesTestsed": "fentanyl, αHydroxy",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, acetyl",
+    "analytesTestsed": "fentanyl, acetyl",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, acrylfentanyl",
+    "analytesTestsed": "fentanyl, acrylfentanyl",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, butyrl/isobutyrl",
+    "analytesTestsed": "fentanyl, butyrl/isobutyrl",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, car",
+    "analytesTestsed": "fentanyl, car",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, furanyl",
+    "analytesTestsed": "fentanyl, furanyl",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, methoxyacetyl",
+    "analytesTestsed": "fentanyl, methoxyacetyl",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, 3-methyl",
+    "analytesTestsed": "fentanyl, 3-methyl",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, fluorobutyr/fluoroisobutyr",
+    "analytesTestsed": "fentanyl, fluorobutyr/fluoroisobutyr",
+    "matrix": "Urine",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fluoxetine",
+    "analytesTestsed": "fluoxetine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Fluoxetine, nor",
+    "analytesTestsed": "fluoxetine, nor",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Fluphenazine",
+    "analytesTestsed": "fluphenazine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Flurazepam",
+    "analytesTestsed": "flurazepam",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Flurazepam, hydroxyethyl",
+    "analytesTestsed": "flurazepam, hydroxyethyl",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Fluvoxamine",
+    "analytesTestsed": "fluvoxamine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Gabapentin",
+    "analytesTestsed": "gabapentin",
+    "matrix": "Urine",
+    "detectionLimit": "400"
+  },
+  {
+    "testName": "Haloperidol",
+    "analytesTestsed": "haloperidol",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Heroin metabolite",
+    "analytesTestsed": "6-acetylmorphine",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Hydrocodone",
+    "analytesTestsed": "hydrocodone",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Hydromorphone",
+    "analytesTestsed": "hydromorphone",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Iloperidol",
+    "analytesTestsed": "iloperidol",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Imipramine",
+    "analytesTestsed": "imipramine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Ketamine",
+    "analytesTestsed": "ketamine",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Ketamine, nor",
+    "analytesTestsed": "ketamine, nor",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Lorazepam",
+    "analytesTestsed": "lorazepam",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Lurasidone",
+    "analytesTestsed": "lurasidone",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "MDA",
+    "analytesTestsed": "MDA",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "MDEA",
+    "analytesTestsed": "MDEA",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "MDMA",
+    "analytesTestsed": "MDMA",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "MDPV",
+    "analytesTestsed": "MDPV",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Meperidine",
+    "analytesTestsed": "meperidine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Meperidine, nor",
+    "analytesTestsed": "meperidine, nor",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Meprobamate",
+    "analytesTestsed": "meprobamate",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Methadone",
+    "analytesTestsed": "methadone",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Methamphetamine",
+    "analytesTestsed": "methamphetamine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Methylphenidate",
+    "analytesTestsed": "methylphenidate",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Midazolam",
+    "analytesTestsed": "midazolam",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Mirtazapine",
+    "analytesTestsed": "mirtazapine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Mitragynine",
+    "analytesTestsed": "mitragynine",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Mitragynine, 7OH",
+    "analytesTestsed": "mitragynine, 7OH",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Morphine",
+    "analytesTestsed": "morphine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Nalbuphine",
+    "analytesTestsed": "nalbuphine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Naloxone",
+    "analytesTestsed": "naloxone",
+    "matrix": "Urine",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Naltrexone",
+    "analytesTestsed": "naltrexone",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Nortriptyline",
+    "analytesTestsed": "nortriptyline",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Olanzapine",
+    "analytesTestsed": "olanzapine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Oxazepam",
+    "analytesTestsed": "oxazepam",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Oxycodone",
+    "analytesTestsed": "oxycodone",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Oxycodone, nor",
+    "analytesTestsed": "oxycodone, nor",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Oxymorphone",
+    "analytesTestsed": "oxymorphone",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Oxymorphone, nor",
+    "analytesTestsed": "oxymorphone, nor",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Pentazocine",
+    "analytesTestsed": "pentazocine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "pH",
+    "analytesTestsed": "pH",
+    "matrix": "Urine",
+    "detectionLimit": "-"
+  },
+  {
+    "testName": "Phencyclidine",
+    "analytesTestsed": "phencyclidine",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Phentermine",
+    "analytesTestsed": "phentermine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Pregabalin",
+    "analytesTestsed": "pregabalin",
+    "matrix": "Urine",
+    "detectionLimit": "200"
+  },
+  {
+    "testName": "Propoxyphene",
+    "analytesTestsed": "propoxyphene",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Propoxyphene, nor",
+    "analytesTestsed": "propoxyphene, nor",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Pseudoephedrine/ephedrine",
+    "analytesTestsed": "pseudoephedrine/ephedrine",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "PVP, alpha",
+    "analytesTestsed": "PVP, alpha",
+    "matrix": "Urine",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Quetiapine",
+    "analytesTestsed": "quetiapine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Risperidone",
+    "analytesTestsed": "risperidone",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Ritalinic acid",
+    "analytesTestsed": "ritalinic acid",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Sertraline",
+    "analytesTestsed": "sertraline",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Sertraline, nor",
+    "analytesTestsed": "sertraline, nor",
+    "matrix": "Urine",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Specific gravity",
+    "analytesTestsed": "specific gravity",
+    "matrix": "Urine",
+    "detectionLimit": "1.001-1.020"
+  },
+  {
+    "testName": "Tapentadol",
+    "analytesTestsed": "tapentadol",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Temazepam",
+    "analytesTestsed": "temazepam",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "THC metabolite",
+    "analytesTestsed": "carboxyTHC",
+    "matrix": "Urine",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Thioridazine",
+    "analytesTestsed": "thioridazine",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Tramadol",
+    "analytesTestsed": "tramadol",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Tramadol, n-desmethyl",
+    "analytesTestsed": "tramadol, n-desmethyl",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "trazodone",
+    "analytesTestsed": "trazodone",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Triazolam",
+    "analytesTestsed": "triazolam",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Triazolam, 7-hydroxy",
+    "analytesTestsed": "triazolam, 7-hydroxy",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Zaleplon",
+    "analytesTestsed": "zaleplon",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "ziprasidone",
+    "analytesTestsed": "ziprasidone",
+    "matrix": "Urine",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Zolpidem",
+    "analytesTestsed": "zolpidem",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Zopiclone",
+    "analytesTestsed": "zopiclone",
+    "matrix": "Urine",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Oral",
+    "analytesTestsed": "_",
+    "matrix": "_",
+    "detectionLimit": "_"
+  },
+  {
+    "testName": "Drugs of Abuse Panel (AddictionTox)",
+    "analytesTestsed": "alprazolam, alpha-hydroxyalprazolam,  amphetamine,                     benzoylecgonine, buprenorphine*,  norbuprenorphine*,                     carisoprodol, clonazepam,  7-aminoclonazepam, cocaine,                     codeine,  dextromethorphan, dextrorphan/levorphanol,                      diazepam, ephedrine/pseudoephedrine,  ethylone*,                     fentanyl*, norfentanyl*,                                                            β                                                           OH  fentanyl*, fentanyl precursor (4-ANPP)*,                      flurazepam, hydroxyethylflurazepam,                                                                                               gabapentin***, hydrocodone, hydromorphone,  ketamine,                     lorazepam, MDA, MDEA, MDMA,  MDPV*, meperidine,                     normeperidine,                                                                                               meprobamate, methadone, EDDP,                                                                                               methamphetamine, methyphenidate, ritalinic  acid,                     midazolam, mitragynine*, morphine, 6- acetylmorphine*,                     naloxone, natrexone,  oxazepam, oxycodone,                     noroxycodone,  oxymorphone, noroxymorphone,                     phencyclidine*,  phentermine, pregabalin**,                                                            α                                                           PVP*, tapentadol,  temazepam, tramadol,                     N-desmethyltramadol,  triazolam, zaleplon, zolpidem.",
+    "matrix": "Oral",
+    "detectionLimit": "10                                                                                               1*                                                                                               100**                                                                                               200***"
+  },
+  {
+    "testName": "Therapeutics Panel (PsychiatricTox)",
+    "analytesTestsed": "amytriptyline, amoxapine, aripiprazole,  bupropion,                     butorphanol, chlorpromazine,  citalopram, clozapine,                     cotinine, clomipramine,  cyclobenzaprine, desipramine,                     dihydrocodeine,  doxepin, nordoxepin, duloxetine,                     fluoxetine,  norfluoxetine, fluphenazine, fluvoxamine,                      haloperidol, iloperidol, imipramine, lurasidone,                      mirtazapine, nortrityline, olanzapine,                                                                                               propoxyphene, norpropoxyphene, quetiapine,                      risperidone, sertraline, norsertraline, thioridazine,                      trazodone, trazodone metabolite (mCPP),                      venlafaxine, ziprasidone.",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Amphetamine Panel",
+    "analytesTestsed": "amphetamine, methamphetamine, MDMA,  MDA, MDEA,                     phentermine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Antidepressants 1 Panel (Serotonergic)",
+    "analytesTestsed": "fluoxetine, norfluoxetine, sertraline,  norsertraline,                     duloxetine, citalopram,  fluvoxamine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Antidepressants 2 Panel (Tricyclic  and other Cyclics)",
+    "analytesTestsed": "amitryptyline, amoxapine, clomipramine,  desipramine,                     doxepin, nordoxepin,  imipramine, mirtazapine,                     nortriptyline",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Antidepressants 3 Panel                                                                                               (Others)",
+    "analytesTestsed": "bupropion, trazodone, trazodone metabolite  (mCPP),                     venlafaxine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Antipsychotics Panel",
+    "analytesTestsed": "aripiprazole, chlorpromazine, clozapine,  fluphenazine,                     haloperidol, lurasidone,  olanzapine, quetiapine,                     risperidone,  thioridazine, ziprasidone",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Bath Salts Panel (Cathinones)",
+    "analytesTestsed": "ethylone, MDPV, alpha-PVP,",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Benzodiazepine Panel",
+    "analytesTestsed": "alprazolam, alpha-hydroxyalprazolam,  clonazepam,                     7-aminoclonazepam, diazepam,  flurazepam,                     hydroxyethylflurazepam,  lorazepam, midazolam,                     nordiazepam,  oxazepam, temazepam, triazolam",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Buprenorphine Panel",
+    "analytesTestsed": "buprenorphine, norbuprenorphine",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Cocaine Panel",
+    "analytesTestsed": "cocaine, benzoylecgonine",
+    "matrix": "Oral",
+    "detectionLimit": "5"
+  },
+  {
+    "testName": "Dextrometorphan Panel",
+    "analytesTestsed": "dextromethorphan,                                                                                               dextrorphan/levorphanol",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Ephedrine Panel",
+    "analytesTestsed": "pseudoephedrine, ephedrine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Fentanyl Panel",
+    "analytesTestsed": "fentanyl, norfentanyl,                                                            β                                                           OH-fentanyl",
+    "matrix": "Oral",
+    "detectionLimit": "0.5"
+  },
+  {
+    "testName": "Gabapentinoids Panel",
+    "analytesTestsed": "gabapentin, pregabalin",
+    "matrix": "Oral",
+    "detectionLimit": "200/100"
+  },
+  {
+    "testName": "Ketamine Panel",
+    "analytesTestsed": "ketamine, norketamine",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Meperidine Panel",
+    "analytesTestsed": "meperidine, normeperidine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Methadone Panel",
+    "analytesTestsed": "methadone, EDDP",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Methylphenidate Panel",
+    "analytesTestsed": "methyphenidate, ritalinic acid",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Mitragynine Panel                                                                                               (Kraton)",
+    "analytesTestsed": "mitragynine, 7-hydroxymitragynine",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Muscle Relaxant Panel",
+    "analytesTestsed": "meprobamate, carisoprodol, cyclobenzaprine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Opiates Panel",
+    "analytesTestsed": "morphine, 6-acetylmorphine, codeine,  hydrocodone,                     hydromorphone,                                                                                               dihydrocodeine, oxycodone, oxymorphone,  noroxycodone,                     noroxymorphone",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Sedative Panel",
+    "analytesTestsed": "zolpidem, zaleplon",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Propoxyphene Panel",
+    "analytesTestsed": "propoxyphene, norpropoxyphene",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Tramadol Panel",
+    "analytesTestsed": "tramadol, N-desmethyltramadol",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Oral",
+    "analytesTestsed": "_",
+    "matrix": "_",
+    "detectionLimit": "_"
+  },
+  {
+    "testName": "Alprazolam",
+    "analytesTestsed": "alprazolam",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Alprazolam,α-hydroxy",
+    "analytesTestsed": "alprazolam,α-hydroxy",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Amitriptyline",
+    "analytesTestsed": "amitriptyline",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Amoxapine",
+    "analytesTestsed": "amoxapine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Buprenorphine",
+    "analytesTestsed": "buprenorphine",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Buprenorphine, nor",
+    "analytesTestsed": "buprenorphine, nor",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Bupropion",
+    "analytesTestsed": "bupropion",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Butorphanol",
+    "analytesTestsed": "butorphanol",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Cannabidiol",
+    "analytesTestsed": "cannabidiol",
+    "matrix": "Oral",
+    "detectionLimit": "5"
+  },
+  {
+    "testName": "Carisoprodol",
+    "analytesTestsed": "carisoprodol",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Chlorpromazine",
+    "analytesTestsed": "chlorpromazine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Citalopram",
+    "analytesTestsed": "citalopram",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Clomipramine",
+    "analytesTestsed": "clomipramine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Clonazepam",
+    "analytesTestsed": "clonazepam",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Clonazepam, 7-amino",
+    "analytesTestsed": "clonazepam, 7-amino",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Clozapine",
+    "analytesTestsed": "clozapine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Cocaethylene",
+    "analytesTestsed": "cocaethylene",
+    "matrix": "Oral",
+    "detectionLimit": "5"
+  },
+  {
+    "testName": "Cocaine",
+    "analytesTestsed": "cocaine",
+    "matrix": "Oral",
+    "detectionLimit": "5"
+  },
+  {
+    "testName": "Cocaine metabolite BZE",
+    "analytesTestsed": "cocaine metabolite BZE",
+    "matrix": "Oral",
+    "detectionLimit": "5"
+  },
+  {
+    "testName": "Cocaine, nor",
+    "analytesTestsed": "cocaine, nor",
+    "matrix": "Oral",
+    "detectionLimit": "5"
+  },
+  {
+    "testName": "Codeine",
+    "analytesTestsed": "codeine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Cotinine",
+    "analytesTestsed": "cotinine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Cyclobenzaprine",
+    "analytesTestsed": "cyclobenzaprine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Desipramine",
+    "analytesTestsed": "desipramine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Dextromethorphan",
+    "analytesTestsed": "dextromethorphan",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Dextrorphan",
+    "analytesTestsed": "dextrorphan",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Diazepam",
+    "analytesTestsed": "diazepam",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Diazepam, nor",
+    "analytesTestsed": "diazepam, nor",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "dihydrocodeine",
+    "analytesTestsed": "dihydrocodeine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Doxepin",
+    "analytesTestsed": "doxepin",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Doxepin, nor",
+    "analytesTestsed": "doxepin, nor",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Duloxetine",
+    "analytesTestsed": "duloxetine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "EDDP",
+    "analytesTestsed": "EDDP",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Ethylone",
+    "analytesTestsed": "ethylone",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl",
+    "analytesTestsed": "fentanyl",
+    "matrix": "Oral",
+    "detectionLimit": "0.5"
+  },
+  {
+    "testName": "Fentanyl Precursor (4-ANPP)",
+    "analytesTestsed": "4-ANPP",
+    "matrix": "Oral",
+    "detectionLimit": "0.5"
+  },
+  {
+    "testName": "Fentanyl, nor",
+    "analytesTestsed": "fentanyl, nor",
+    "matrix": "Oral",
+    "detectionLimit": "0.5"
+  },
+  {
+    "testName": "Fentanyl, αHydroxy",
+    "analytesTestsed": "fentanyl, αHydroxy",
+    "matrix": "Oral",
+    "detectionLimit": "0.5"
+  },
+  {
+    "testName": "Fluoxetine",
+    "analytesTestsed": "fluoxetine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Fluoxetine, nor",
+    "analytesTestsed": "fluoxetine, nor",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Fluphenazine",
+    "analytesTestsed": "fluphenazine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Flurazepam",
+    "analytesTestsed": "flurazepam",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Flurazepam, hydroxyethyl",
+    "analytesTestsed": "flurazepam, hydroxyethyl",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Fluvoxamine",
+    "analytesTestsed": "fluvoxamine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Gabapentin",
+    "analytesTestsed": "gabapentin",
+    "matrix": "Oral",
+    "detectionLimit": "200"
+  },
+  {
+    "testName": "Haloperidol",
+    "analytesTestsed": "haloperidol",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Heroin metabolite",
+    "analytesTestsed": "6-acetylmorphine",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Hydrocodone",
+    "analytesTestsed": "hydrocodone",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Hydromorphone",
+    "analytesTestsed": "hydromorphone",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Iloperidol",
+    "analytesTestsed": "iloperidol",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Imipramine",
+    "analytesTestsed": "imipramine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Ketamine",
+    "analytesTestsed": "ketamine",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Ketamine, nor",
+    "analytesTestsed": "ketamine, nor",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Lorazepam",
+    "analytesTestsed": "lorazepam",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Lurasidone",
+    "analytesTestsed": "lurasidone",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "MDA",
+    "analytesTestsed": "MDA",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "MDEA",
+    "analytesTestsed": "MDEA",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "MDMA",
+    "analytesTestsed": "MDMA",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "MDPV",
+    "analytesTestsed": "MDPV",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Meperidine",
+    "analytesTestsed": "meperidine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Meperidine, nor",
+    "analytesTestsed": "meperidine, nor",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Meprobamate",
+    "analytesTestsed": "meprobamate",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Methadone",
+    "analytesTestsed": "methadone",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Methamphetamine",
+    "analytesTestsed": "methamphetamine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Methylphenidate",
+    "analytesTestsed": "methylphenidate",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Midazolam",
+    "analytesTestsed": "midazolam",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Mirtazapine",
+    "analytesTestsed": "mirtazapine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Mitragynine",
+    "analytesTestsed": "mitragynine",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Mitragynine, 7OH",
+    "analytesTestsed": "mitragynine, 7OH",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Morphine",
+    "analytesTestsed": "morphine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Nalbuphine",
+    "analytesTestsed": "nalbuphine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Naloxone",
+    "analytesTestsed": "naloxone",
+    "matrix": "Oral",
+    "detectionLimit": "5"
+  },
+  {
+    "testName": "Naltrexone",
+    "analytesTestsed": "naltrexone",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Nortriptyline",
+    "analytesTestsed": "nortriptyline",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Olanzapine",
+    "analytesTestsed": "olanzapine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Oxazepam",
+    "analytesTestsed": "oxazepam",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Oxycodone",
+    "analytesTestsed": "oxycodone",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Oxycodone, nor",
+    "analytesTestsed": "oxycodone, nor",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Oxymorphone",
+    "analytesTestsed": "oxymorphone",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Oxymorphone, nor",
+    "analytesTestsed": "oxymorphone, nor",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Pentazocine",
+    "analytesTestsed": "pentazocine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Phencyclidine",
+    "analytesTestsed": "phencyclidine",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Phentermine",
+    "analytesTestsed": "phentermine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Pregabalin",
+    "analytesTestsed": "pregabalin",
+    "matrix": "Oral",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Propoxyphene",
+    "analytesTestsed": "propoxyphene",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Propoxyphene, nor",
+    "analytesTestsed": "propoxyphene, nor",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Pseudoephedrine/ephedrine",
+    "analytesTestsed": "pseudoephedrine/ephedrine",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "PVP, alpha",
+    "analytesTestsed": "PVP, alpha",
+    "matrix": "Oral",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Quetiapine",
+    "analytesTestsed": "quetiapine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Risperidone",
+    "analytesTestsed": "risperidone",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Ritalinic acid",
+    "analytesTestsed": "ritalinic acid",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Sertraline",
+    "analytesTestsed": "sertraline",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Sertraline, nor",
+    "analytesTestsed": "sertraline, nor",
+    "matrix": "Oral",
+    "detectionLimit": "2.5"
+  },
+  {
+    "testName": "Tapentadol",
+    "analytesTestsed": "tapentadol",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Temazepam",
+    "analytesTestsed": "temazepam",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "THC",
+    "analytesTestsed": "THC",
+    "matrix": "Oral",
+    "detectionLimit": "5"
+  },
+  {
+    "testName": "Thioridazine",
+    "analytesTestsed": "thioridazine",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Tramadol",
+    "analytesTestsed": "tramadol",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Tramadol, n-desmethyl",
+    "analytesTestsed": "tramadol, n-desmethyl",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "trazodone",
+    "analytesTestsed": "trazodone",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Triazolam",
+    "analytesTestsed": "triazolam",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Triazolam, 7-hydroxy",
+    "analytesTestsed": "triazolam, 7-hydroxy",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Zaleplon",
+    "analytesTestsed": "zaleplon",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "ziprasidone",
+    "analytesTestsed": "ziprasidone",
+    "matrix": "Oral",
+    "detectionLimit": "25"
+  },
+  {
+    "testName": "Zolpidem",
+    "analytesTestsed": "zolpidem",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Zopiclone",
+    "analytesTestsed": "zopiclone",
+    "matrix": "Oral",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Hair",
+    "analytesTestsed": "_",
+    "matrix": "_",
+    "detectionLimit": "_"
+  },
+  {
+    "testName": "Drugs of Abuse Panel (AddictionTox)",
+    "analytesTestsed": "alprazolam, alpha-hydroxyalprazolam,  amphetamine,                     benzoylecgonine, buprenorphine*,  norbuprenorphine*,                     carisoprodol, clonazepam,  7-aminoclonazepam, cocaine,                     codeine,  dextromethorphan, dextrorphan/levorphanol,                      diazepam, ephedrine/pseudoephedrine,  ethylone*,                     fentanyl*, norfentanyl*,                                                            β                                                           OH  fentanyl*, fentanyl precursor (4-ANPP)*,                      flurazepam, hydroxyethylflurazepam,                                                                                               gabapentin***, hydrocodone, hydromorphone,  ketamine,                     lorazepam, MDA, MDEA, MDMA,  MDPV*, meperidine,                     normeperidine,                                                                                               meprobamate, methadone, EDDP,                                                                                               methamphetamine, methyphenidate, ritalinic  acid,                     midazolam, mitragynine*, 7-                                                                                              hydroxymitragynine*, morphine, 6-                                                                                              acetylmorphine*, naloxone, natrexone,  oxazepam,                     oxycodone, noroxycodone,  oxymorphone, noroxymorphone,                     phencyclidine*,  phentermine, pregabalin**,                                                            α                                                           PVP*, tapentadol,  temazepam, tramadol,                     N-desmethyltramadol,  triazolam, zaleplon, zolpidem.",
+    "matrix": "Hair",
+    "detectionLimit": "40                                                                                               4*                                                                                               200**                                                                                               400***"
+  },
+  {
+    "testName": "Therapeutics Panel                                                                                               (PsychiatricTox)",
+    "analytesTestsed": "amytriptyline, amoxapine, aripiprazole,  bupropion,                     butorphanol, chlorpromazine,  citalopram, clozapine,                     cotinine, clomipramine,  cyclobenzaprine, desipramine,                     dihydrocodeine,  doxepin, nordoxepin, duloxetine,                     fluoxetine,  norfluoxetine, fluphenazine, fluvoxamine,                      haloperidol, iloperidol, imipramine, lurasidone,                      mirtazapine, nortrityline, olanzapine,                                                                                               propoxyphene, norpropoxyphene, quetiapine,                      risperidone, sertraline, norsertraline, thioridazine,                      trazodone, trazodone metabolite (mCPP),                      venlafaxine, ziprasidone.",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Amphetamine Panel",
+    "analytesTestsed": "amphetamine, methamphetamine, MDMA,  MDA, MDEA,                     phentermine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Antidepressants 1 Panel (Serotonergic)",
+    "analytesTestsed": "fluoxetine, norfluoxetine, sertraline,  norsertraline,                     duloxetine, citalopram,  fluvoxamine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Antidepressants 2 Panel (Tricyclic  and other Cyclics)",
+    "analytesTestsed": "amitryptyline, amoxapine, clomipramine,  desipramine,                     doxepin, nordoxepin,  imipramine, mirtazapine,                     nortriptyline",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Antidepressants 3 Panel                                                                                               (Others)",
+    "analytesTestsed": "bupropion, trazodone, trazodone metabolite  (mCPP),                     venlafaxine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Antipsychotics Panel",
+    "analytesTestsed": "aripiprazole, chlorpromazine, clozapine,  fluphenazine,                     haloperidol, lurasidone,  olanzapine, quetiapine,                     risperidone,  thioridazine, ziprasidone",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Bath Salts Panel (Cathinones)",
+    "analytesTestsed": "ethylone, MDPV, alpha-PVP,",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Benzodiazepine Panel",
+    "analytesTestsed": "alprazolam, alpha-hydroxyalprazolam,  clonazepam,                     7-aminoclonazepam, diazepam,  flurazepam,                     hydroxyethylflurazepam,  lorazepam, midazolam,                     nordiazepam,  oxazepam, temazepam, triazolam",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Buprenorphine Panel",
+    "analytesTestsed": "buprenorphine, norbuprenorphine",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Cocaine Panel",
+    "analytesTestsed": "cocaine, benzoylecgonine, cocaethylene,                      norcocaine",
+    "matrix": "Hair",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Dextrometorphan Panel",
+    "analytesTestsed": "dextromethorphan,                                                                                               dextrorphan/levorphanol",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Ephedrine Panel",
+    "analytesTestsed": "pseudoephedrine, ephedrine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Fentanyl Panel",
+    "analytesTestsed": "fentanyl, norfentanyl,                                                            β                                                           OH-fentanyl",
+    "matrix": "Hair",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Gabapentinoids Panel",
+    "analytesTestsed": "gabapentin, pregabalin",
+    "matrix": "Hair",
+    "detectionLimit": "400/200"
+  },
+  {
+    "testName": "Ketamine Panel",
+    "analytesTestsed": "ketamine, norketamine",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Meperidine Panel",
+    "analytesTestsed": "meperidine, normeperidine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Methadone Panel",
+    "analytesTestsed": "methadone, EDDP",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Methylphenidate Panel",
+    "analytesTestsed": "methyphenidate, ritalinic acid",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Mitragynine Panel                                                                                               (Kraton)",
+    "analytesTestsed": "mitragynine, 7-hydroxymitragynine",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Muscle Relaxant Panel",
+    "analytesTestsed": "meprobamate, carisoprodol, cyclobenzaprine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Opiates Panel",
+    "analytesTestsed": "morphine, 6-acetylmorphine, codeine,  hydrocodone,                     hydromorphone,                                                                                               dihydrocodeine, oxycodone, oxymorphone,  noroxycodone,                     noroxymorphone",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Sedative Panel",
+    "analytesTestsed": "zolpidem, zaleplon",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Propoxyphene Panel",
+    "analytesTestsed": "propoxyphene, norpropoxyphene",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Tramadol Panel",
+    "analytesTestsed": "tramadol, N-desmethyltramadol",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Hair",
+    "analytesTestsed": "_",
+    "matrix": "_",
+    "detectionLimit": "_"
+  },
+  {
+    "testName": "Alprazolam",
+    "analytesTestsed": "alprazolam",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Alprazolam,α-hydroxy",
+    "analytesTestsed": "alprazolam,α-hydroxy",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Amitriptyline",
+    "analytesTestsed": "amitriptyline",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Amoxapine",
+    "analytesTestsed": "amoxapine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Buprenorphine",
+    "analytesTestsed": "buprenorphine",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Buprenorphine, nor",
+    "analytesTestsed": "buprenorphine, nor",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Bupropion",
+    "analytesTestsed": "bupropion",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Butorphanol",
+    "analytesTestsed": "butorphanol",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Cannabinoid Screen",
+    "analytesTestsed": "cannabinoids",
+    "matrix": "Hair",
+    "detectionLimit": "50"
+  },
+  {
+    "testName": "Carisoprodol",
+    "analytesTestsed": "carisoprodol",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Chlorpromazine",
+    "analytesTestsed": "chlorpromazine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Citalopram",
+    "analytesTestsed": "citalopram",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Clomipramine",
+    "analytesTestsed": "clomipramine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Clonazepam",
+    "analytesTestsed": "clonazepam",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Clonazepam, 7-amino",
+    "analytesTestsed": "clonazepam, 7-amino",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Clozapine",
+    "analytesTestsed": "clozapine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Cocaethylene",
+    "analytesTestsed": "cocaethylene",
+    "matrix": "Hair",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Cocaine",
+    "analytesTestsed": "cocaine",
+    "matrix": "Hair",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Cocaine metabolite BZE",
+    "analytesTestsed": "cocaine metabolite BZE",
+    "matrix": "Hair",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Cocaine, nor",
+    "analytesTestsed": "cocaine, nor",
+    "matrix": "Hair",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Codeine",
+    "analytesTestsed": "codeine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Cotinine",
+    "analytesTestsed": "cotinine",
+    "matrix": "Hair",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Cyclobenzaprine",
+    "analytesTestsed": "cyclobenzaprine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Desipramine",
+    "analytesTestsed": "desipramine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Dextromethorphan",
+    "analytesTestsed": "dextromethorphan",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Dextrorphan",
+    "analytesTestsed": "dextrorphan",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Diazepam",
+    "analytesTestsed": "diazepam",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Diazepam, nor",
+    "analytesTestsed": "diazepam, nor",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "dihydrocodeine",
+    "analytesTestsed": "dihydrocodeine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Doxepin",
+    "analytesTestsed": "doxepin",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Doxepin, nor",
+    "analytesTestsed": "doxepin, nor",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Duloxetine",
+    "analytesTestsed": "duloxetine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "EDDP",
+    "analytesTestsed": "EDDP",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Ethylone",
+    "analytesTestsed": "ethylone",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Fentanyl",
+    "analytesTestsed": "fentanyl",
+    "matrix": "Hair",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl Precursor (4-ANPP)",
+    "analytesTestsed": "4-ANPP",
+    "matrix": "Hair",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fentanyl, fluorobutyr/fluoroisobutyr",
+    "analytesTestsed": "fentanyl, fluorobutyr/fluoroisobutyr",
+    "matrix": "Hair",
+    "detectionLimit": "1"
+  },
+  {
+    "testName": "Fluoxetine",
+    "analytesTestsed": "fluoxetine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Fluoxetine, nor",
+    "analytesTestsed": "fluoxetine, nor",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Fluphenazine",
+    "analytesTestsed": "fluphenazine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Flurazepam",
+    "analytesTestsed": "flurazepam",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Flurazepam, hydroxyethyl",
+    "analytesTestsed": "flurazepam, hydroxyethyl",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Fluvoxamine",
+    "analytesTestsed": "fluvoxamine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Gabapentin",
+    "analytesTestsed": "gabapentin",
+    "matrix": "Hair",
+    "detectionLimit": "400"
+  },
+  {
+    "testName": "Haloperidol",
+    "analytesTestsed": "haloperidol",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Heroin metabolite",
+    "analytesTestsed": "6-acetylmorphine",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Hydrocodone",
+    "analytesTestsed": "hydrocodone",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Hydromorphone",
+    "analytesTestsed": "hydromorphone",
+    "matrix": "Hair",
+    "detectionLimit": ""
+  },
+  {
+    "testName": "Iloperidol",
+    "analytesTestsed": "iloperidol",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Imipramine",
+    "analytesTestsed": "imipramine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Ketamine",
+    "analytesTestsed": "ketamine",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Ketamine, nor",
+    "analytesTestsed": "ketamine, nor",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Lorazepam",
+    "analytesTestsed": "lorazepam",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Lurasidone",
+    "analytesTestsed": "lurasidone",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "MDA",
+    "analytesTestsed": "MDA",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "MDEA",
+    "analytesTestsed": "MDEA",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "MDMA",
+    "analytesTestsed": "MDMA",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "MDPV",
+    "analytesTestsed": "MDPV",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Meperidine",
+    "analytesTestsed": "meperidine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Meperidine, nor",
+    "analytesTestsed": "meperidine, nor",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Meprobamate",
+    "analytesTestsed": "meprobamate",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Methadone",
+    "analytesTestsed": "methadone",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Methamphetamine",
+    "analytesTestsed": "methamphetamine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Methylphenidate",
+    "analytesTestsed": "methylphenidate",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Midazolam",
+    "analytesTestsed": "midazolam",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Mirtazapine",
+    "analytesTestsed": "mirtazapine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Mitragynine",
+    "analytesTestsed": "mitragynine",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Mitragynine, 7OH",
+    "analytesTestsed": "mitragynine, 7OH",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Morphine",
+    "analytesTestsed": "morphine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Nalbuphine",
+    "analytesTestsed": "nalbuphine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Naloxone",
+    "analytesTestsed": "naloxone",
+    "matrix": "Hair",
+    "detectionLimit": "20"
+  },
+  {
+    "testName": "Naltrexone",
+    "analytesTestsed": "naltrexone",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Nortriptyline",
+    "analytesTestsed": "nortriptyline",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Olanzapine",
+    "analytesTestsed": "olanzapine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Oxazepam",
+    "analytesTestsed": "oxazepam",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Oxycodone",
+    "analytesTestsed": "oxycodone",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Oxycodone, nor",
+    "analytesTestsed": "oxycodone, nor",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Oxymorphone",
+    "analytesTestsed": "oxymorphone",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Oxymorphone, nor",
+    "analytesTestsed": "oxymorphone, nor",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Pentazocine",
+    "analytesTestsed": "pentazocine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Phencyclidine",
+    "analytesTestsed": "phencyclidine",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Phentermine",
+    "analytesTestsed": "phentermine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Pregabalin",
+    "analytesTestsed": "pregabalin",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Propoxyphene",
+    "analytesTestsed": "propoxyphene",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Propoxyphene, nor",
+    "analytesTestsed": "propoxyphene, nor",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Pseudoephedrine/ephedrine",
+    "analytesTestsed": "pseudoephedrine/ephedrine",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "PVP, alpha",
+    "analytesTestsed": "PVP, alpha",
+    "matrix": "Hair",
+    "detectionLimit": "4"
+  },
+  {
+    "testName": "Quetiapine",
+    "analytesTestsed": "quetiapine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Risperidone",
+    "analytesTestsed": "risperidone",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Ritalinic acid",
+    "analytesTestsed": "ritalinic acid",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Sertraline",
+    "analytesTestsed": "sertraline",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Sertraline, nor",
+    "analytesTestsed": "sertraline, nor",
+    "matrix": "Hair",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Specific gravity",
+    "analytesTestsed": "specific gravity",
+    "matrix": "Hair",
+    "detectionLimit": "1.001-1.020"
+  },
+  {
+    "testName": "Tapentadol",
+    "analytesTestsed": "tapentadol",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Temazepam",
+    "analytesTestsed": "temazepam",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "THC metabolite",
+    "analytesTestsed": "carboxyTHC",
+    "matrix": "Hair",
+    "detectionLimit": "10"
+  },
+  {
+    "testName": "Thioridazine",
+    "analytesTestsed": "thioridazine",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Tramadol",
+    "analytesTestsed": "tramadol",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Tramadol, n-desmethyl",
+    "analytesTestsed": "tramadol, n-desmethyl",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "trazodone",
+    "analytesTestsed": "trazodone",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Triazolam",
+    "analytesTestsed": "triazolam",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Triazolam, 7-hydroxy",
+    "analytesTestsed": "triazolam, 7-hydroxy",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Zaleplon",
+    "analytesTestsed": "zaleplon",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "ziprasidone",
+    "analytesTestsed": "ziprasidone",
+    "matrix": "Hair",
+    "detectionLimit": "100"
+  },
+  {
+    "testName": "Zolpidem",
+    "analytesTestsed": "zolpidem",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  },
+  {
+    "testName": "Zopiclone",
+    "analytesTestsed": "zopiclone",
+    "matrix": "Hair",
+    "detectionLimit": "40"
+  }
+]

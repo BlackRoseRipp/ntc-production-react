@@ -1,0 +1,10 @@
+.contact-info-list{
+    list-style: none;
+}
+.contact-info-list li{
+    font-size: 17pt;
+    margin-bottom: 45px;
+}
+.contact-row{
+    margin-bottom: 55px;
+}

@@ -1,0 +1,21 @@
+.tab-pane{
+    padding: 45px; 
+}
+.pdf-viewer-container{
+    padding: 10px 250px;
+}
+@media screen and (max-width:1400px){
+    .pdf-viewer-container{
+        padding: 10px 150px;
+    }
+}
+@media screen and (max-width:1100px){
+    .pdf-viewer-container{
+        padding: 10px 40px;
+    }
+}
+@media screen and (max-width:767px){
+    .pdf-viewer-container{
+        padding: 10px 0px;
+    }
+}

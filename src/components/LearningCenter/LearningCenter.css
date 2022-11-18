@@ -1,0 +1,16 @@
+.inner-card-body{
+    padding: 45px 0;
+    text-align: center;
+
+}
+.lc-card{
+    margin: 20px 0;
+}
+.card-icon{
+    font-size: 40pt;
+    margin-bottom: 15px;
+}
+.card-link{
+    text-decoration: none;
+    color: inherit;
+}

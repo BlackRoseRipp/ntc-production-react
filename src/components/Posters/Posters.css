@@ -1,0 +1,28 @@
+.jumbotron-image{
+    width: 100%;
+}
+.thumbnail-image-container{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.thumbnail-image{
+    height: 100%;
+}
+.view-btn{
+    width: 100%;
+}
+.close-btn{
+    position: absolute;
+    top: 110px;;
+    right: 15px;
+    z-index: 1000;
+}
+.poster-title{
+    height: 100px;
+}
+.poster-col{
+    margin-bottom: 45px;
+    margin: 45px auto;
+}

@@ -1,0 +1,14 @@
+table{
+    display: block;
+    margin: 45px auto;
+    text-align: center;
+    width: fit-content;
+}
+.section-heading{
+    font-weight: 900 !important;
+    font-size: 15pt;
+}
+.table-header-underline{
+    border-bottom:  2px solid black;
+    font-size: 7.5pt;
+}

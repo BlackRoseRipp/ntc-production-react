@@ -1,0 +1,41 @@
+header {
+  padding: 290px 0;
+}
+.home-vid {
+  display: block;
+  margin: 45px auto;
+  width: 550px;
+  height: 450px;
+}
+
+.jumbotron-header {
+  overflow-x: hidden;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) 99%),
+    url("../../../public/assets/img/blog/AdobeStock_387736389.jpeg");
+  background-size: cover;
+  background-position: 1% 1%;
+}
+@media screen and (max-width: 767px) {
+  .jumbotron-header {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) 99%),
+      url("../../../public/assets/img/blog/AdobeStock_387736389.jpeg");
+    background-size: cover;
+    background-position: 15% 5%;
+  }
+}
+.service-list li {
+  text-align: left;
+}
+.service-list {
+  /* list-style: none; */
+}
+@media screen and (max-width: 555px){
+  .home-vid {
+    width:100%
+  }
+}
+@media screen and (max-width: 1200px) {
+  header {
+    padding: 100px 0;
+  }
+}
