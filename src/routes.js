@@ -1,5 +1,5 @@
 import React, { Suspense } from "react";
-import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
+import { BrowserRouter as Router, Link, Route, Routes } from "react-router-dom";
 import Blog from "./components/Blog/Blog";
 import BlogViewer from "./components/Blog/BlogViewer";
 
@@ -8,6 +8,9 @@ const BlogDetail = React.lazy(() => import("./components/Blog/BlogDetail"));
 const TestsDirectory = React.lazy(() =>
   import("./components/TestsDirectory/TestsDirectory")
 );
+const TestManager = React.lazy(() =>
+  import("./components/TestsDirectory/TestManager")
+);
 const Requisitions = React.lazy(() =>
   import("./components/Requisitions/Requisitions")
 );
@@ -15,13 +18,17 @@ const Contact = React.lazy(() => import("./components/Contact/Contact"));
 const About = React.lazy(() => import("./components/About/About"));
 const Videos = React.lazy(() => import("./components/Videos/Videos"));
 const LearningCenter = React.lazy(() =>
-import("./components/LearningCenter/LearningCenter")
+  import("./components/LearningCenter/LearningCenter")
 );
 const Posters = React.lazy(() => import("./components/Posters/Posters"));
 const Team = React.lazy(() => import("./components/Team/Team"));
-const PublicationTab = React.lazy(() => import("./components/PublicationTab/PublicationTab"));
+const PublicationTab = React.lazy(() =>
+  import("./components/PublicationTab/PublicationTab")
+);
 // const PubViewer = React.lazy(() => import("./components/PubViewer/PubViewer"));
-const Publications = React.lazy(() => import("./components/PubViewer/Publications"));
+const Publications = React.lazy(() =>
+  import("./components/PubViewer/Publications")
+);
 //BlogPosts
 
 export const routes = () => {
@@ -31,6 +38,7 @@ export const routes = () => {
     { path: "/blog-detail/:index", component: <BlogDetail /> },
     { path: "/viewer", component: <BlogViewer /> },
     { path: "/tests-directory", component: <TestsDirectory /> },
+    { path: "/test-manager", component: <TestManager /> },
     { path: "/requisitions", component: <Requisitions /> },
     { path: "/contact", component: <Contact /> },
     { path: "/about", component: <About /> },

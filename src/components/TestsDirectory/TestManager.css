@@ -1,0 +1,26 @@
+:root {
+    --dark-pink: #D283B7;
+    --light-pink: #FFAEFD;
+    --dark-blue: #00B7D6;
+    --light-blue: #5DC5EE;
+}
+
+.btn-bd-primary {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--dark-pink);
+    --bs-btn-bg: #FFFFFF;
+    --bs-btn-border-color: var(--dark-pink);
+    --bs-btn-border-radius: .5rem;
+    --bs-btn-hover-color: #FFFFFF;
+    --bs-btn-hover-bg: var(--light-pink);
+    --bs-btn-hover-border-color: var(--light-pink);
+    --bs-btn-focus-box-shadow: 0 0 0 4px rgba(255, 165, 224, 0.5);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: var(--bs-btn-color);
+    --bs-btn-active-border-color: var(--bs-btn-border-color);
+}
+
+.nav-link {
+    --bs-nav-link-color: var(--dark-pink);
+    --bs-nav-link-hover-color: var(--light-pink);
+}
