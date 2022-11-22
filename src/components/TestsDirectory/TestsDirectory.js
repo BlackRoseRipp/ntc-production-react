@@ -1,21 +1,45 @@
-import React, { useState } from "react";
+import { collection, getDocs } from "firebase/firestore";
+import React, { useEffect, useState } from "react";
+import { db } from "../../store/firebase";
 import testDirectory from "../../test-directory.json";
 import "./TestsDirectory.css";
 const TestsDirectory = () => {
-  const [filteredTests, setFilteredTests] = useState(testDirectory);
+  const [googleData, setGoogleData] = useState([]);
+  const [filteredTests, setFilteredTests] = useState(googleData);
 
-  var currentType = "";
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const locationsArray = [];
+        const locRes = await getDocs(collection(db, "ntc-lab-tests"));
+        console.log("useEffect");
+
+        if (!locRes.empty) {
+          locRes.forEach((doc) => {
+            const loc = doc.data();
+            locationsArray.push(loc);
+          });
+          //console.log(locationsArray)
+          setGoogleData(Object.values(locationsArray[0]));
+        }
+      } catch (e) {
+        console.log(e);
+      }
+    };
+    fetchData();
+    setFilteredTests(googleData);
+  }, []);
 
   const filterTests = (e) => {
     let text = e.target.value;
     if (text !== "") {
       setFilteredTests(
-        filteredTests.filter((test) =>
-          test.testName.toLowerCase().includes(text.toLowerCase())
+        filteredTests.filter((testRow) =>
+          testRow.test.toLowerCase().includes(text.toLowerCase())
         )
       );
     } else {
-      setFilteredTests(testDirectory);
+      setFilteredTests(googleData);
     }
   };
 
@@ -46,41 +70,23 @@ const TestsDirectory = () => {
           <thead>
             <tr>
               <th>Test Name</th>
-              <th>Analytes Tested</th>
+              <th>Analyses Tested</th>
               <th>Matrix</th>
               <th>Method</th>
-              <th>Detection Limit ng/mL</th>
+              <th>Detection Limit</th>
             </tr>
           </thead>
           <tbody>
-            {filteredTests.map((test) => {
-              var renderedRow = <tr></tr>;
-
-              if (test.analyesTested === "_") {
-                // var renderedRow = (
-                //   <tr>
-                //     <td>
-                //       <b>{test.testName}</b>
-                //     </td>
-                //     {/* <td>{currentType}</td> */}
-                //     <td>{test.analytesTestsed}</td>
-                //     <td>{test.method}</td>
-                //     <td>{test.detectionLimit}</td>
-                //   </tr>
-                // );
-              } else {
-                renderedRow = (
-                  <tr>
-                    <td>{test["Tests and Panels"]}</td>
-                    <td>{test["Testing Includes"]}</td>
-                    <td>{test["Specimen"]}</td>
-                    <td>{test["Method"]}</td>
-                    <td>{test["Detection Limit   ng/mL "]}</td>
-                  </tr>
-                );
-              }
-              console.log(currentType);
-              return renderedRow;
+            {filteredTests.map((testRow) => {
+              return (
+                <tr>
+                  <td>{testRow.test}</td>
+                  <td>{testRow.includes}</td>
+                  <td>{testRow.specimen}</td>
+                  <td>{testRow.method}</td>
+                  <td>{testRow.detection}</td>
+                </tr>
+              );
             })}
           </tbody>
         </table>
