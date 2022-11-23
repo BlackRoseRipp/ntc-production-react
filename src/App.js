@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import {BrowserRouter} from "react-router-dom"
+import { BrowserRouter } from "react-router-dom";
 import "./App.css";
 import BlogDetail from "./components/Blog/BlogDetail";
 import Footer from "./components/Footer/Footer";
